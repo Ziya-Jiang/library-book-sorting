@@ -1,0 +1,3 @@
+# Vision Tool: only the installed LRCP right-wrist camera, including re-enumeration.
+# Do not grant world access or change permissions on arm/chassis devices.
+SUBSYSTEM=="video4linux", ENV{ID_VENDOR_ID}=="1e45", ENV{ID_MODEL_ID}=="5487", ENV{ID_SERIAL}=="LRCP_G-720P_LRCP_G-720P_SN0001", OWNER="erazer", GROUP="video", MODE="0660"

@@ -1,0 +1,12 @@
+{
+  "camera_timeout": 0.75,
+  "camera_topic": "/camera/color/image_raw",
+  "camera_compressed": false,
+  "orbbec_serial": "CV2TC5100060",
+  "shared_rgbd_enabled": true,
+  "shared_rgbd_port": 8792,
+  "shared_rgbd_calibration": "/home/erazer/Seldon/keyboard_cockpit/shared_head_calibration_v34.json",
+  "camera_width": 640,
+  "camera_height": 480,
+  "camera_fps": 15
+}

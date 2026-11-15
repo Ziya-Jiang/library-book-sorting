@@ -1,0 +1,2263 @@
+[
+  {
+    "path": "/home/erazer/.config/systemd/user/deepseek-camera-tool.service",
+    "bytes": 314,
+    "sha256": "e4c9d60c3a67ff32f3a06cb882d44625fd8a17dfa5699db3107a837f60083833"
+  },
+  {
+    "path": "/home/erazer/.config/systemd/user/left-suction-d405.service",
+    "bytes": 550,
+    "sha256": "5935d8f9f9ef1c60e0d65e672943088e02dd06bec817cab15a3628ad3be121da"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/config/assembly/left_hand_right_gripper_half.yaml",
+    "bytes": 286,
+    "sha256": "60e772e6f6cfef32d610ea839bb45b9bea59bde3b0e801504445242e17d3d32c"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/config/assembly/no_gripper.yaml",
+    "bytes": 116,
+    "sha256": "09b3039b2927884555fc7789be2a39e2500beef87d99bffaa8c8529980289180"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/config/assembly/no_gripper_half.yaml",
+    "bytes": 136,
+    "sha256": "6dff5d053b78c29d7723788415d2e2d56c20afc1f1ae5108c4ce2c0a71e42296"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/config/components/dual_v2_2.yaml",
+    "bytes": 5590,
+    "sha256": "a680cfa3c11df93539ca8a9e5282e1604c5172c720f51faa83381f6e201be146"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/config/components/dual_v2_2_half.yaml",
+    "bytes": 5571,
+    "sha256": "b868da7e2c4d9c1c88166a190024ace92155af2bf94aad4e7cbc74ed2300f490"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/config/components/gripper_left.yaml",
+    "bytes": 384,
+    "sha256": "6ab39dea3d3f4c7a89e6ded01e630e66900fb8637ee37b915c96f94e5644cf55"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/config/components/gripper_right.yaml",
+    "bytes": 420,
+    "sha256": "d4194661642765594f1fde1534fd89105d860848b4c8c1552eed9099d0302221"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/config/components/hand_left.yaml",
+    "bytes": 657,
+    "sha256": "5a752fe9c274beddb77a532f592dd493f931b340b429893daf857fd379e97c7c"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/config/components/hand_right.yaml",
+    "bytes": 657,
+    "sha256": "7eba2272af936d1c52037853a318ec41c7bd73ef831e5db69545fecdc8528bf6"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/left_hand_right_gripper_half/dual_arm_half.urdf",
+    "bytes": 30527,
+    "sha256": "b3b9abf9534417378293121f324152e41002767b2ad3488cfd215fce3149b216"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/left_hand_right_gripper_half/dual_arm_half1.urdf",
+    "bytes": 34826,
+    "sha256": "e4c4e4714f5dae60209f3afd0d330b5ced0f5d3718b09dfbd50b8ee1884eb106"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/left_hand_right_gripper_half/dual_arm_half_broken_20260723.urdf",
+    "bytes": 30514,
+    "sha256": "32b7469921318048cd1ecf9bb2b595678b38878168e1b4a9d5cc7a807c6d5511"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/left_hand_right_gripper_half/dual_arm_half_old.urdf",
+    "bytes": 30374,
+    "sha256": "eb621c9e013b394a4eb1fe811203d41171d8c98ea2475f92c166b9ee8ef88986"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/arm/z1.STL",
+    "bytes": 1582984,
+    "sha256": "63023ba0c2f4e4b2cc5f39c7840c3369be4431e029c26465ccf8bcb24864ac53"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/arm/z2.STL",
+    "bytes": 813984,
+    "sha256": "c21ca5d56d9b5493d838a3e63bda234d30fef7e41ee00fc6de1242e3130c52c2"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/arm/z3.STL",
+    "bytes": 1498984,
+    "sha256": "377084a438cfb72059243252a1808f84dd978e7decc7a35cd7832eeb89b18b80"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/arm/z4.STL",
+    "bytes": 750384,
+    "sha256": "cd7e4eb5a1677766a9ffaaac81a65cb3543f368bc40decf30edece639cc71660"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/arm/z5.STL",
+    "bytes": 2315484,
+    "sha256": "0a556b10180bd59b8f8b38b448b767e6aa8860fa533097738c72abcbf096e2fd"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/arm/z6.STL",
+    "bytes": 1142984,
+    "sha256": "08339cfd3c89c89b65752b8d8ae456735e2ca5c6dfe286c3abf539816d08b749"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/arm/z7.STL",
+    "bytes": 298284,
+    "sha256": "c21feab0b561b29740a23f9c8887b4e7c6652735c7d76ccd46cff449f41f28f2"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/arm/z7_blue.STL",
+    "bytes": 285784,
+    "sha256": "58787f2133b3225cace96652ea5f559ea96097e38e3ef8c347f0bbbfdcd6935d"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/base/DZ.STL",
+    "bytes": 9400734,
+    "sha256": "1afb22856b2ea1a54c36c048ad424fb3f1a7e2c2155fc2dee09905849d930c30"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/base/SJ1Z.STL",
+    "bytes": 3039834,
+    "sha256": "0a1bfb2d52b9e01b4b5bf715fff3d39bf6c27326e5bb3239812ae3f84180a0f3"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/base/SJ2Z.STL",
+    "bytes": 1527784,
+    "sha256": "20c02bf2b9482fd696e28b67220388061846b1f5b1da747f30d285d9896c01f7"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/base/SJ3Z.STL",
+    "bytes": 3122634,
+    "sha256": "e58f55d9d17d5f1635754f46e88c7f2609b689da75c31a1e178b2f621a90ecd6"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/base/SJ4Z.STL",
+    "bytes": 8616784,
+    "sha256": "f8b53f57a8ec12758cab4ab260c3e2475cb64e899632c9508992e270217614a6"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/gripper/d1z.STL",
+    "bytes": 193484,
+    "sha256": "6eb9d62acf07e25e1a07437dea503b88157c656c0b309b1945f624fff3ef5798"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/gripper/d2z.STL",
+    "bytes": 193484,
+    "sha256": "80bf15fa86382579c3e4e5479408485a17c283945b0081e43ce665165faa8756"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/gripper/dz.STL",
+    "bytes": 375284,
+    "sha256": "0935ab63c8249e16050d4d2d7aa73bb57154fe01a1ed564e0c938415f2b5bcaa"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_hand_base_link.STL",
+    "bytes": 1448084,
+    "sha256": "2b42dcba1d13f21395f2d5a447266d1ba2bb8ce8e03f756656aaf2ffd4f5d930"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_index_distal.STL",
+    "bytes": 329384,
+    "sha256": "4e04fd44cda85569af195b10469a8e94ae26da1ec4897f61452f772d81aa51e0"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_index_proximal.STL",
+    "bytes": 407184,
+    "sha256": "2b3ad5630643ba166a27455a95529388a6eb0f252d09c49b74c5d4b7012d0ee2"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_middle_distal.STL",
+    "bytes": 182684,
+    "sha256": "dc35a88c1e07e286f6e584a89c699a7306c3016b85e84aa5202c469dafecd40f"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_middle_proximal.STL",
+    "bytes": 407184,
+    "sha256": "afd7e392ac9362b53e19c7ec2110ab4b7ad5f73a334a84801633273a90262460"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_pinky_distal.STL",
+    "bytes": 413384,
+    "sha256": "101dace1b1690a88aa7d8ea27d97e364e2d8db3bc55af10421a5501c1784911c"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_pinky_proximal.STL",
+    "bytes": 407184,
+    "sha256": "beb3c8c81b6a2865c9663ef80f0c0a8fd3ef6bfddf97dd93a8893617b3a301a5"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_ring_distal.STL",
+    "bytes": 329484,
+    "sha256": "85d3cbab725937e41fa90a43d2520e354ce3a7cbe41c9501b6ad1cb963e2dc09"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_ring_proximal.STL",
+    "bytes": 407184,
+    "sha256": "f57625f511cbf03ee24fd824a4aa11d51f6afb54c504de178cd0517d742fb305"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_thumb_distal.STL",
+    "bytes": 155184,
+    "sha256": "8bb31d26baf3262cd9d7e4eef929a02019f853e5ae34990ccb7eedfa47b789eb"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_thumb_intermediate.STL",
+    "bytes": 488584,
+    "sha256": "e656a965177c7aba7636a9cdc019da874f864d57bd59b6e199867c954f9e2040"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_thumb_proximal.STL",
+    "bytes": 917284,
+    "sha256": "f6aed86b67a70dbd31b22bd8e772ff34ca268054c4561f6424567454abf2a155"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_l/L_thumb_proximal_base.STL",
+    "bytes": 46584,
+    "sha256": "e53f33c52125b66e4ebb710f96d39677f64db0900afbecde536b8f44d35ff3d3"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_hand_base_link.STL",
+    "bytes": 1472384,
+    "sha256": "6a8fafef58049663865cee098a3c9b0c618e41bb9860a32fb11432907f927070"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_index_distal.STL",
+    "bytes": 335484,
+    "sha256": "d1a6c5054bdec62990b9c8f2b2877238257cd0e13707787f50acefe2997a05bd"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_index_proximal.STL",
+    "bytes": 411884,
+    "sha256": "20850b0947414508e69b65c2e387e2de1551ce4c848fd559709303070f91bbd4"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_middle_distal.STL",
+    "bytes": 182984,
+    "sha256": "650fc405784957380f01f25412d510afab08f2b9da7b8858dc9fcfe70190cd7f"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_middle_proximal.STL",
+    "bytes": 411884,
+    "sha256": "00077e39a7cdf0b825f9ef681a7f576162ea298dab1405e040c0d32e83e262cf"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_pinky_distal.STL",
+    "bytes": 416484,
+    "sha256": "93cd532ae486f823faf2ba7d41d937a386068697c2687bd18acccb0c2d95b9d8"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_pinky_proximal.STL",
+    "bytes": 411884,
+    "sha256": "efb4f38337fc9c645e0d77aa3fc4a7817bedae8027a83a18334d972872c159d1"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_ring_distal.STL",
+    "bytes": 334784,
+    "sha256": "8df01ccaf65ff3e8626764a72df07cfdc630536dc95958b61d6bc39489ac8b89"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_ring_proximal.STL",
+    "bytes": 411884,
+    "sha256": "bb7c2de0d2b54a12e6262b8cab6a4231eb6a4c9019d34e8a4058cca4796db3a7"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_thumb_distal.STL",
+    "bytes": 155584,
+    "sha256": "1c0628c7ba4795d9df64b38adc6fbe0e379296de7b517d35bdf7e180588e43ad"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_thumb_intermediate.STL",
+    "bytes": 483284,
+    "sha256": "98d988e859b9cfdfa2368eff9fe0806120d0d278aac894ce24e3e2bbeda065e0"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_thumb_proximal.STL",
+    "bytes": 921984,
+    "sha256": "ce7a7bed72252974e7319eb71e62e6575e0d1a2b5989c9cadd61ac138aa615a3"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes/inspire_hand_r/R_thumb_proximal_base.STL",
+    "bytes": 46884,
+    "sha256": "bbc0fe7774a9ca8c81fb2a1edb881b3c5913f13bb87251ee5e9cab0a2f55db65"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/no_gripper_half/dual_arm_half.urdf",
+    "bytes": 14203,
+    "sha256": "86cf05927057e1c389baa25dcbc90ea98453968480167f5672762780b832d18d"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_control/cuarm_rt_control/hardware_modules/realman_dual_arm/config1.yaml",
+    "bytes": 5570,
+    "sha256": "b46b8937e1ff8bf193b078ea8e9c7ef2c6706932b09d069a208db79476f2de86"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/manifest.json",
+    "bytes": 6137,
+    "sha256": "c7c15a0970516260939f22d2cf7a7f86e209fc6af3cb675bbbbf946f44e3ce7a"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/Matrix.hpp",
+    "bytes": 15106,
+    "sha256": "e0137a4be8b1d2478b94638679bed1495419f8ac3126af48dc01ee4df0f56b9e"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/Slice.hpp",
+    "bytes": 3025,
+    "sha256": "52b8dd320bff31a6320edc64f6c083736b41e8f656e5234fd55647bc3a54962e"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/SquareMatrix.hpp",
+    "bytes": 11589,
+    "sha256": "280954631fe7a080898d7e2e4de4373f801cc7330842cc1aabcd9827609e526c"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/Vector.hpp",
+    "bytes": 2061,
+    "sha256": "60a2b74ef39ac2332136de2139a8f7f95ade9377ef7dd1774435c25f03981593"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/can_fd.h",
+    "bytes": 953,
+    "sha256": "f4571a8b0cec2e90c4b2f94548592deba7261ec41b685c8281596504280a20f7"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/can_normal.h",
+    "bytes": 744,
+    "sha256": "e61d0f44141e42c3fc2c2f31162519af1646c2083d56a2f4d783b7c8d7d8a99c"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/config_loader.h",
+    "bytes": 8958,
+    "sha256": "d8e70f88835dd3ccf56510ee579dfde9f675b30225c39f8fcc4e54e6a4d53644"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/controlcan.h",
+    "bytes": 2841,
+    "sha256": "9ecd81e9f492139203f716e73f31ff27555cca8b33600b91f127cbed76e57363"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/kinematics.h",
+    "bytes": 1529,
+    "sha256": "604ae6070b1f50457bc89ab617c338a1a17ea4818a3034df6948dd54d1c4f144"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/logger.h",
+    "bytes": 2317,
+    "sha256": "8eb54faf54545ea74ce9953887f6c2e5126f3891bab79f7ec53a8f904be412c3"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/motor.h",
+    "bytes": 1547,
+    "sha256": "4c85f2e327c474ec66c920f5dc3ae791e0bbf472c4d5d294a107a229b6137b20"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/polynomial_trajectory.h",
+    "bytes": 568,
+    "sha256": "93db62f44b94cc2306466244dfac383b5cedf8b2f8c43348717f983980c35d25"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/pos_controller.h",
+    "bytes": 1072,
+    "sha256": "6d218a5e16a822c3c0ff7c97dc4eee77fd85b922a0576417f55ca9d4f082f3a7"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/quintic_interpolation.h",
+    "bytes": 1113,
+    "sha256": "6b096525e989427597d467f57eefb5d09a052dbff7d17516b23d2f48b7ad9952"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/robot_arm.h",
+    "bytes": 2392,
+    "sha256": "7d6d101ee628a5237d453af019ac5a6e7135610af59327d6a25bd372412cd108"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/robot_struct.h",
+    "bytes": 3305,
+    "sha256": "410be58c04ba08f74dd2510088a7c4514c9d67176fd81517d3d6906c9a6c6e52"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/robotics_math.h",
+    "bytes": 3585,
+    "sha256": "ebf9a9ef3075138b99606ffd318780629b12eafc6af2ba67115a93f27fdac743"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/status_velocity.h",
+    "bytes": 2397,
+    "sha256": "d0dea124fea07eecbe7d69fa7b787dff43a4ceb62bb26fd0140dc582f5709174"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/torque_sensor.h",
+    "bytes": 795,
+    "sha256": "940124b1d5e3baee25cc619efc397246b750cdb857d4dd04695f121b93729666"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/x86/eu_canable.h",
+    "bytes": 2971,
+    "sha256": "4904f7d159303024ac13aabf1ce095e839d95fe84f75a56a8b1dfd0bdfa80f40"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/include/x86/zcan.h",
+    "bytes": 18032,
+    "sha256": "0ae17ef4224f8179b3813e0bed9b8395e0f24375d54e4a052515242565bd3043"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/src/motor_sensor/motor.cpp",
+    "bytes": 4801,
+    "sha256": "230d36e8d5e41b8a6766d3547b355705b4546af73d9e6e7bda4ed63629ae669d"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/hardware_modules/realman_dual_arm/src/motor_sensor/robot_arm.cpp",
+    "bytes": 34849,
+    "sha256": "943803a77a60fcd8ecbb66ca58609f0a2eeb120ba87f9d1ca099de427a467da7"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/src/arm/dual_v2_2_arm.cpp",
+    "bytes": 8642,
+    "sha256": "3c4b18d3bc5dd334bed43998024981e09ec83d1ec1451ff3b1d4864173d76f43"
+  },
+  {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/runtime/right_velocity_candidate_20261102/source/src/arm/dual_v2_2_arm.h",
+    "bytes": 1892,
+    "sha256": "9d1eaf5dbb0e80c343a417b7b3dfba3c86ec6b4007baeb01cf8d913d37759a8a"
+  },
+  {
+    "path": "/home/erazer/Seldon/keyboard_cockpit/seldon_cockpit/__init__.py",
+    "bytes": 58,
+    "sha256": "4da9cea80afc733e458d0c395862bab405c26bf26f768c096348d7e172fe3450"
+  },
+  {
+    "path": "/home/erazer/Seldon/keyboard_cockpit/seldon_cockpit/angles.py",
+    "bytes": 2278,
+    "sha256": "859190d84ff50d60c61974968d34e80c34d5df22622c346adcfd6dc6dc6880e8"
+  },
+  {
+    "path": "/home/erazer/Seldon/keyboard_cockpit/seldon_cockpit/app.py",
+    "bytes": 13908,
+    "sha256": "b8b55fe61e9ab955e991f9b46d25c22925385780dce955e71833da7d133c68a0"
+  },
+  {
+    "path": "/home/erazer/Seldon/keyboard_cockpit/seldon_cockpit/backend.py",
+    "bytes": 27102,
+    "sha256": "eb3d4480965ab4efe698eb0b87b53219307bfdd94cdb37ae72c21f8b516941d3"
+  },
+  {
+    "path": "/home/erazer/Seldon/keyboard_cockpit/seldon_cockpit/camera.py",
+    "bytes": 10092,
+    "sha256": "dcf0e55b25f99f19d29bcbf976803033c14a2be6d850f2fa6c707235f60899fd"
+  },
+  {
+    "path": "/home/erazer/Seldon/keyboard_cockpit/seldon_cockpit/control.py",
+    "bytes": 3629,
+    "sha256": "c0669b684809cd5268cb383467450dde1eaa67958892f23a76d33073223e76f4"
+  },
+  {
+    "path": "/home/erazer/Seldon/keyboard_cockpit/seldon_cockpit/head_service.py",
+    "bytes": 1291,
+    "sha256": "b77ead435f789063f68e74d1fe336c6e2a7215ccf988152a1add567b9fb467ad"
+  },
+  {
+    "path": "/home/erazer/Seldon/keyboard_cockpit/seldon_cockpit/shared_rgbd_v34.py",
+    "bytes": 14571,
+    "sha256": "1332a36a053e4bb74b03053e4cb61787d85775c298f043a055f3e5828904f4ab"
+  },
+  {
+    "path": "/home/erazer/Seldon/keyboard_cockpit/seldon_cockpit/webapp.py",
+    "bytes": 21942,
+    "sha256": "e89a0115d286b0d5c6bcad1c0acbf0bef2426d25b53efcf32e2ee51cbb6a8a9e"
+  },
+  {
+    "path": "/home/erazer/Seldon/keyboard_cockpit/shared_head_calibration_v34.json",
+    "bytes": 1226,
+    "sha256": "61af4ae2326c8e277b16c7686d3e6020c7ab2ebba195e14f47d37cb73580ffe5"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/config.yaml",
+    "bytes": 1430,
+    "sha256": "d29370ee2f7ef9e91a395d69c730eba0f7bb2cfe5bd5b8747d317a9a54ab17b6"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/config/assembly/left_hand_right_gripper_half.yaml",
+    "bytes": 286,
+    "sha256": "60e772e6f6cfef32d610ea839bb45b9bea59bde3b0e801504445242e17d3d32c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/config/assembly/no_gripper.yaml",
+    "bytes": 116,
+    "sha256": "09b3039b2927884555fc7789be2a39e2500beef87d99bffaa8c8529980289180"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/config/components/dual_v2_2.yaml",
+    "bytes": 7768,
+    "sha256": "a655d777d22b1f240466e8bfc90ef81577b0629ff84894ce819c3781e91a7f90"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/config/components/dual_v2_2_half.yaml",
+    "bytes": 5571,
+    "sha256": "b868da7e2c4d9c1c88166a190024ace92155af2bf94aad4e7cbc74ed2300f490"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/config/components/gripper_right.yaml",
+    "bytes": 412,
+    "sha256": "f35286db6b508a1f5bae22809f97dec66aaeb88be280ff0ad9f55eb48bbd284f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/config/components/hand_left.yaml",
+    "bytes": 588,
+    "sha256": "f3881aa6b3a71f73f90e7002c5ed63718773ea66bbcca0c20a25d78c580e9a1b"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/left_hand_right_gripper/dual_arm.urdf",
+    "bytes": 36458,
+    "sha256": "17ec94f5e8125802177722082dc7397cc75fc40dec612a51426c25bd7615cf75"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/left_hand_right_gripper_half/dual_arm_half.urdf",
+    "bytes": 30527,
+    "sha256": "b3b9abf9534417378293121f324152e41002767b2ad3488cfd215fce3149b216"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/arm/z1.STL",
+    "bytes": 1771284,
+    "sha256": "841c97035428ec77b689559bd93235b1a0c0ede13dc0d045a98fd651c23b696c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/arm/z2.STL",
+    "bytes": 1189684,
+    "sha256": "298508b4fc8b5ca7323a512460bb7cc697794fdad7687df35def149b80d7c5b8"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/arm/z3.STL",
+    "bytes": 1807484,
+    "sha256": "077aaf9fb52c750c773cc732f96a48adccfbbf4d6e954ad454756eb8b68dd073"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/arm/z4.STL",
+    "bytes": 1231784,
+    "sha256": "7620c3ba52bb29e1e8601135912779cf063bc1abc9b1480ff77d2b0bb9398603"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/arm/z5.STL",
+    "bytes": 1877284,
+    "sha256": "d0b28a4c39c5a98908c01dba6e2b1a2fb3e74d5788344c19ebe5a919f0d7a720"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/arm/z6.STL",
+    "bytes": 2340984,
+    "sha256": "1f95196a96a3d9ccf728bb12d1b9d9d509f5731edee1863c2e8de24b9e233cfc"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/arm/z7.STL",
+    "bytes": 1543484,
+    "sha256": "c55cbdf3b9aad910bc1655bc36e8d5944a5a81074fcc6123fc393177eaaa9e1b"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/base/DP.STL",
+    "bytes": 9104784,
+    "sha256": "bf124abfb91cd3a4320d51e907e7916df7274894cd6eb0af90cde7bed5ce2294"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/base/s1.STL",
+    "bytes": 3251234,
+    "sha256": "fae367145c7d26ad6c199becc3f34967ccc22e7e426cf7d4a5021371662d59bd"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/base/s2.STL",
+    "bytes": 1495684,
+    "sha256": "3bc0ec95e32382376e42daced16c8ee7ad68b15e116b29b0c4d4e7774c5f36f5"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/base/s3.STL",
+    "bytes": 3700934,
+    "sha256": "514a8b4798bc498a247ffb1bb59045b6c3674329e9d7fa686151b0cdb83c7a24"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/base/s4.STL",
+    "bytes": 7341584,
+    "sha256": "2086c6a667fd3435182a653007aeacbad1ff9dce7bde1694e62a6a24f2593b9e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/gripper/gripper_base_link.STL",
+    "bytes": 548184,
+    "sha256": "b5c6d5bda9e02725bddce0d0cf0fb7b215e7ce57b952b3e4af0947c66c0f1355"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/gripper/gripper_link01.STL",
+    "bytes": 170884,
+    "sha256": "f21d4b6f23b3728b4732c3610aaa8bee02acd1c2ebd3921a85e12e417c410302"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/gripper/gripper_link02.STL",
+    "bytes": 171084,
+    "sha256": "c969beb010c7a54ef27731b5afb2175f6726cf6661de4a20fa94a841fcf9371e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_hand_base_link.STL",
+    "bytes": 1448084,
+    "sha256": "2b42dcba1d13f21395f2d5a447266d1ba2bb8ce8e03f756656aaf2ffd4f5d930"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_index_distal.STL",
+    "bytes": 329384,
+    "sha256": "4e04fd44cda85569af195b10469a8e94ae26da1ec4897f61452f772d81aa51e0"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_index_proximal.STL",
+    "bytes": 407184,
+    "sha256": "2b3ad5630643ba166a27455a95529388a6eb0f252d09c49b74c5d4b7012d0ee2"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_middle_distal.STL",
+    "bytes": 182684,
+    "sha256": "dc35a88c1e07e286f6e584a89c699a7306c3016b85e84aa5202c469dafecd40f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_middle_proximal.STL",
+    "bytes": 407184,
+    "sha256": "afd7e392ac9362b53e19c7ec2110ab4b7ad5f73a334a84801633273a90262460"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_pinky_distal.STL",
+    "bytes": 413384,
+    "sha256": "101dace1b1690a88aa7d8ea27d97e364e2d8db3bc55af10421a5501c1784911c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_pinky_proximal.STL",
+    "bytes": 407184,
+    "sha256": "beb3c8c81b6a2865c9663ef80f0c0a8fd3ef6bfddf97dd93a8893617b3a301a5"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_ring_distal.STL",
+    "bytes": 329484,
+    "sha256": "85d3cbab725937e41fa90a43d2520e354ce3a7cbe41c9501b6ad1cb963e2dc09"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_ring_proximal.STL",
+    "bytes": 407184,
+    "sha256": "f57625f511cbf03ee24fd824a4aa11d51f6afb54c504de178cd0517d742fb305"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_thumb_distal.STL",
+    "bytes": 155184,
+    "sha256": "8bb31d26baf3262cd9d7e4eef929a02019f853e5ae34990ccb7eedfa47b789eb"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_thumb_intermediate.STL",
+    "bytes": 488584,
+    "sha256": "e656a965177c7aba7636a9cdc019da874f864d57bd59b6e199867c954f9e2040"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_thumb_proximal.STL",
+    "bytes": 917284,
+    "sha256": "f6aed86b67a70dbd31b22bd8e772ff34ca268054c4561f6424567454abf2a155"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_l/L_thumb_proximal_base.STL",
+    "bytes": 46584,
+    "sha256": "e53f33c52125b66e4ebb710f96d39677f64db0900afbecde536b8f44d35ff3d3"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_hand_base_link.STL",
+    "bytes": 1472384,
+    "sha256": "6a8fafef58049663865cee098a3c9b0c618e41bb9860a32fb11432907f927070"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_index_distal.STL",
+    "bytes": 335484,
+    "sha256": "d1a6c5054bdec62990b9c8f2b2877238257cd0e13707787f50acefe2997a05bd"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_index_proximal.STL",
+    "bytes": 411884,
+    "sha256": "20850b0947414508e69b65c2e387e2de1551ce4c848fd559709303070f91bbd4"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_middle_distal.STL",
+    "bytes": 182984,
+    "sha256": "650fc405784957380f01f25412d510afab08f2b9da7b8858dc9fcfe70190cd7f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_middle_proximal.STL",
+    "bytes": 411884,
+    "sha256": "00077e39a7cdf0b825f9ef681a7f576162ea298dab1405e040c0d32e83e262cf"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_pinky_distal.STL",
+    "bytes": 416484,
+    "sha256": "93cd532ae486f823faf2ba7d41d937a386068697c2687bd18acccb0c2d95b9d8"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_pinky_proximal.STL",
+    "bytes": 411884,
+    "sha256": "efb4f38337fc9c645e0d77aa3fc4a7817bedae8027a83a18334d972872c159d1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_ring_distal.STL",
+    "bytes": 334784,
+    "sha256": "8df01ccaf65ff3e8626764a72df07cfdc630536dc95958b61d6bc39489ac8b89"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_ring_proximal.STL",
+    "bytes": 411884,
+    "sha256": "bb7c2de0d2b54a12e6262b8cab6a4231eb6a4c9019d34e8a4058cca4796db3a7"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_thumb_distal.STL",
+    "bytes": 155584,
+    "sha256": "1c0628c7ba4795d9df64b38adc6fbe0e379296de7b517d35bdf7e180588e43ad"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_thumb_intermediate.STL",
+    "bytes": 483284,
+    "sha256": "98d988e859b9cfdfa2368eff9fe0806120d0d278aac894ce24e3e2bbeda065e0"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_thumb_proximal.STL",
+    "bytes": 921984,
+    "sha256": "ce7a7bed72252974e7319eb71e62e6575e0d1a2b5989c9cadd61ac138aa615a3"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/meshes/inspire_hand_r/R_thumb_proximal_base.STL",
+    "bytes": 46884,
+    "sha256": "bbc0fe7774a9ca8c81fb2a1edb881b3c5913f13bb87251ee5e9cab0a2f55db65"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/no_gripper/dual_arm.urdf",
+    "bytes": 19514,
+    "sha256": "e28fc703e68386dcaf384eebedfb31f4c28c4d9666a109052766adca8c4d9055"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/with_gripper/dual_arm.urdf",
+    "bytes": 26148,
+    "sha256": "d0788863536a452afe4dde6cb91957bf1f2a5f11e4623ae43445f32f2b530351"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_configuration/dual_v2_2/share/with_hand/dual_arm.urdf",
+    "bytes": 46747,
+    "sha256": "a350ddc97734a8e97eda4e5fa0b61806e72d00ed5bcc365666ee3cfd8234f1f0"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/CMakeLists.txt",
+    "bytes": 6784,
+    "sha256": "b14e64e4e5c156edbf4e88a8ca352e02a5a22a7601096a97768574b3bdf8e2b8"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/README.md",
+    "bytes": 337,
+    "sha256": "db4b9356f12c131a236a20fbe8180172071c86e321081c6283ec7b01efd2d17e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/CMakeLists.txt",
+    "bytes": 6263,
+    "sha256": "ceafa0ed0036f1cdb65886e4a59c4915d8ed22f2076057778736414b7b97531f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/README.md",
+    "bytes": 2468,
+    "sha256": "7728b2828a8e86590f9f037d9f70dc9a96708f400d500861c8026822ca70f0b2"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/3rd_party/Eigen_QuaternionBase_Plugin.hpp",
+    "bytes": 1872,
+    "sha256": "dceb668cbf4bdac64517382ead518b955a203d0249b32603888b8cf50043df17"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/3rd_party/Matrix_initializer_list.h",
+    "bytes": 3126,
+    "sha256": "a2e83df79cd109416fefbffe0e90135018324f12fc4a4c9f8aa6d3a2b4eca669"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/arm_planner.h",
+    "bytes": 564,
+    "sha256": "85a0d0ce2d12ddf328ffd8c480fabe70233cd44f516851a8cf74b6a1f8d14d3a"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/dual_arm_planner.cpp",
+    "bytes": 1382,
+    "sha256": "0dc05168ce95e27c23818c91d0cc6e8c2df831ad333aa976f6df61c09beb9d0c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/dual_arm_planner.h",
+    "bytes": 1012,
+    "sha256": "11c3e9967bf6eb2fb5f67464ee6b57375807347c371bdafad7034c5943ac6c6b"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/interpolation.cpp",
+    "bytes": 40077,
+    "sha256": "f18e6a9f3db948e57491683a82f7dd226472248b37ae5bab57c209a6eb7b4790"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/interpolation.h",
+    "bytes": 9925,
+    "sha256": "2d64fbe53788e0214271fc029f2d59cd6307734c13fc8f179fd2a9793d5823fc"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robot_planner.cpp",
+    "bytes": 3557,
+    "sha256": "5117de0149f856d504861026342a3c033290ea41281dd5c4600b861de15c8771"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robot_planner.h",
+    "bytes": 696,
+    "sha256": "de72a6b9de5bbf0776f036a480e10f105665a08216ed795e23075ddb92f1e525"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robot/arm.cpp",
+    "bytes": 659,
+    "sha256": "b12996428a48f8b624a76b1cc7a51fcc68f06b3d572334f634e19ee44d57f4cc"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robot/arm.h",
+    "bytes": 746,
+    "sha256": "3bef373e853d370472e8a4eb4fe71f836d0779dd01947b64cce04de877a99819"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robot/cuarm_v2.cpp",
+    "bytes": 9426,
+    "sha256": "558d25fea075ca38ee846be0a6620f361f2ea5033ee70e9f2a5e05bfd81bdd5a"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robot/cuarm_v2.h",
+    "bytes": 643,
+    "sha256": "6836f9b463acb1b81b5cc80b2ddefe651088097376b3f9f523e03a37065b9037"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robot/cuarm_v3.cpp",
+    "bytes": 1515,
+    "sha256": "5bb09532e12e2f049d0837764bb33d165962309ede26232f943b77ae736fdd63"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robot/cuarm_v3.h",
+    "bytes": 401,
+    "sha256": "21b08637050d000050f573f7f4ff8db11d3c09f27c6e7342fec6c9bed5088fb9"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robot/euarm.cpp",
+    "bytes": 239,
+    "sha256": "6a274e1d10128919d1bf63c73e3df76d6f9e434aaab6fcecafbc594ae7598d40"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robot/euarm.h",
+    "bytes": 391,
+    "sha256": "374d14034800db7791b130187335e28123504e4a08ad5b2eabb1e0dd598d72b9"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robotics.cpp",
+    "bytes": 24006,
+    "sha256": "a1415ba9edd88bfb50a54249298f0287c055cfa29dadc0f286a6b045ccc57f3e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robotics.h",
+    "bytes": 10417,
+    "sha256": "ae176603f6b9a6f39905ff3a43224596e5cfae9dddef4a261ddde1d0b42429c8"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robotics_base.cpp",
+    "bytes": 10495,
+    "sha256": "83459070f2553ec2525e7ef03602ed40855a52c1743da8773ecb86fb51750eb1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robotics_base.h",
+    "bytes": 2958,
+    "sha256": "451aed74fa504200675a48b3916c2d3c6ecf2d67835355713c286905f87c8db2"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robotics_library/pinocchio_wrapper.cpp",
+    "bytes": 12401,
+    "sha256": "31e254244fde484941bd76dca5f20a954f666ecccd7e484401c9bafd42765ba8"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robotics_library/pinocchio_wrapper.h",
+    "bytes": 1744,
+    "sha256": "4a3394fbdcff7b74c0b8fb15bd560f3a770e530a515acdce0ed393481a7f065e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/robotics/robotics_library/robotics_library.h",
+    "bytes": 1566,
+    "sha256": "96904e3018fabca215cfdc93443e3227e96a341599c5ad46e684656446435466"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/sole_arm_planner.cpp",
+    "bytes": 69662,
+    "sha256": "62d1cd9aa40b85b97fc063bd3a9b3a0fd8399ab71b5e23bf045dfa11597751cf"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/sole_arm_planner.h",
+    "bytes": 7825,
+    "sha256": "62dbed9f3ad4b22adf0a759f561073eb09fa19ea2ba24735c61fdb4697e292c2"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/arm_base/CMakeLists.txt",
+    "bytes": 1223,
+    "sha256": "c292f3352cb31e6ab5fa433d0165c6eeb20001fbd4ebef73e4c1daed09e77629"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/arm_base/README.md",
+    "bytes": 782,
+    "sha256": "d326c5baed37a04771433911e29449f624763e9d94c88fdf04c1bdb499cccff9"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/arm_base/arm_base.cpp",
+    "bytes": 5665,
+    "sha256": "c071fcb74eabc2ff6beb214718a3def050c1768532291878e79a594d6a4e082d"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/arm_base/arm_base.h",
+    "bytes": 2769,
+    "sha256": "55581cf9ee691f275dc449746d1ffc18a9de7cccfe6095be8cd21aeb5eb32912"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/README.md",
+    "bytes": 802,
+    "sha256": "799073d212ad99982bf23b9f13955be73cd6c7c6be8a201272ee72b2e30e7784"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/install_kinect.md",
+    "bytes": 3465,
+    "sha256": "cb62359fcf7ae79ba0e88715a898673951ae7089e95ce25b73f4d29398874a98"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/kinect/cpp/CMakeLists.txt",
+    "bytes": 1184,
+    "sha256": "986d24b06d60b095e04d2f66ded52c91311cf15812e238415fd2ef9c9702676e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/kinect/cpp/src/kinect.cpp",
+    "bytes": 5897,
+    "sha256": "ef9aeac9b30b4031e82e6d1049f324efc56eb3a916a96b01d25f0f3fc92f8445"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/kinect/cpp/src/kinect.h",
+    "bytes": 989,
+    "sha256": "873c5e0c77df089625fe6c9858c8c71ff741092ffd9d07dc13fa620684437edc"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/kinect/python/scripts/kinect.py",
+    "bytes": 2699,
+    "sha256": "996c6538473115aebeb267bb523e02c43a7c31cdc73250507c15513ba9e7fd80"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/orbbec/python/scripts/orbbec.py",
+    "bytes": 4263,
+    "sha256": "32df60e43378b188c0e763dbae9cac8af6a718a273bb5d436a82aaedaa7b38bb"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/orbbec/python/scripts/orbbec_utils.py",
+    "bytes": 4964,
+    "sha256": "4b0df4db0f0fc1b3bf775c7ff420d47d3cf092b077fadb401d0518bcbc9f48eb"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/realsense/python/scripts/realsense.py",
+    "bytes": 5129,
+    "sha256": "a9fe16de4342e81460451a03f5a348531d5c0bab0b15e4c4ff2ee57d56480b5c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/scripts/utils.py",
+    "bytes": 3533,
+    "sha256": "1f09c6b3bc5d0bccbc291afbf8a5e27e1a72a53c5fc90859883105b3e23ade29"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/usb_cam/cpp/CMakeLists.txt",
+    "bytes": 1172,
+    "sha256": "a8a3bb68c1e6eac89a3c3c436c2a367aa6f37af6d50ad6df92c1bcbb50c25ebe"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/usb_cam/cpp/src/usb_cam.cpp",
+    "bytes": 2068,
+    "sha256": "4d668bcfd82c22d332b6a2b139ad46d8f91e9179d175c82345aea2f4f8c1dd50"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/usb_cam/cpp/src/usb_cam.h",
+    "bytes": 531,
+    "sha256": "f611960966523987b314f52e42601bf16c0cab68edc5dc59594dc6f2b82c6e81"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/depth_sensor/usb_cam/python/example.py",
+    "bytes": 334,
+    "sha256": "d7bb80b5c96747a5414aba7f06fb27cbe4cb7b5f63e980f43a72a26cc1ee96d6"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/CMakeLists.txt",
+    "bytes": 9680,
+    "sha256": "a74605f8e601b3ec01a7a524a518967530a45c1e513a6e018c26de8ccb1be455"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/README.md",
+    "bytes": 2348,
+    "sha256": "c7920d3ddb346079c2bf3cf144bcc1c3ce21f6760336f46271c7e38194516836"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/config.yaml",
+    "bytes": 7759,
+    "sha256": "7c0fb2ae271b53a95af78c9a1ed8f6325b9396fde5c19d80ca6145eb8881eb4a"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/config_vla.yaml",
+    "bytes": 7564,
+    "sha256": "765bc2d838943e9f1269ed8f83e70a4702e9c6396e9af2cf31bc836da46b4c62"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/demo.yaml",
+    "bytes": 2563,
+    "sha256": "448db3703e03a95d58cccca05ee39c1f20603e9f668cabf53ef62518fc5259f5"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/hand_eye_calibration_readme.txt",
+    "bytes": 971,
+    "sha256": "d6b698f4aac5f7e4efdf56edc7cd7f6d904c366b04407d1e438f3a285dffc5ea"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/Matrix.hpp",
+    "bytes": 15106,
+    "sha256": "e0137a4be8b1d2478b94638679bed1495419f8ac3126af48dc01ee4df0f56b9e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/Slice.hpp",
+    "bytes": 3025,
+    "sha256": "52b8dd320bff31a6320edc64f6c083736b41e8f656e5234fd55647bc3a54962e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/SquareMatrix.hpp",
+    "bytes": 11589,
+    "sha256": "280954631fe7a080898d7e2e4de4373f801cc7330842cc1aabcd9827609e526c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/Vector.hpp",
+    "bytes": 2061,
+    "sha256": "60a2b74ef39ac2332136de2139a8f7f95ade9377ef7dd1774435c25f03981593"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/admittance.h",
+    "bytes": 654,
+    "sha256": "a3f665f3c50d61661543fe1f3e984048e9728f0bba7f54a7be277b1c0cb539c0"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/callback_dispatcher.h",
+    "bytes": 875,
+    "sha256": "92128528dab5bb2117983fde60d51d62a5277f6a0480c321b1d4dd1a03090fb1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/cartesian_plan.h",
+    "bytes": 902,
+    "sha256": "385d1fdde5c1240f201fef1c2d36a49d2cad62ddb8cc8ba146d0c3fb4876fd15"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/config_loader.h",
+    "bytes": 7134,
+    "sha256": "17f0850d84c748dd26623c85cd8dbaa90fe6dc0d5d960c3744bf0d8b8b6724a8"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/eyou_joints.h",
+    "bytes": 2981,
+    "sha256": "4c798f4bf5eff4361b9b32626e43ade36c480fe325f94c4385ada772c2606c6f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/inspire_hand.h",
+    "bytes": 2844,
+    "sha256": "2368053a35ac0398f6f3548475f54d718f2fd8c9bf85de2e38582a8ee548a788"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/kinematics.h",
+    "bytes": 1703,
+    "sha256": "da934d876e8e0634d50fcea4a99003cce49a5956d0bd96a6c5eed23807e93265"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/polynomial_trajectory.h",
+    "bytes": 568,
+    "sha256": "93db62f44b94cc2306466244dfac383b5cedf8b2f8c43348717f983980c35d25"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/pos_controller.h",
+    "bytes": 1072,
+    "sha256": "6d218a5e16a822c3c0ff7c97dc4eee77fd85b922a0576417f55ca9d4f082f3a7"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/quintic_interpolation.h",
+    "bytes": 1113,
+    "sha256": "6b096525e989427597d467f57eefb5d09a052dbff7d17516b23d2f48b7ad9952"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/robot_struct.h",
+    "bytes": 2449,
+    "sha256": "1973618d25873ec06bf8e760d037c40705102a7ac507e40b8beb35846aa4ef67"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/robotics_math.h",
+    "bytes": 3558,
+    "sha256": "c0cae363de7f9f910bc56a95b70bce9dd6e35301fb28e9200f50e71405e6e88a"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/torque_sensor.h",
+    "bytes": 1213,
+    "sha256": "e58342c0b62f2e1f4ed61ca1d8f525889c04517a1eb9f38e3cff32e76f5dc5c1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/usb_to_can.h",
+    "bytes": 684,
+    "sha256": "39e488233d82ac522186ab2dfe76b2daaae7d613c78a0afe861af5c9e88f56f7"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/x86/eu_canable.h",
+    "bytes": 2971,
+    "sha256": "4904f7d159303024ac13aabf1ce095e839d95fe84f75a56a8b1dfd0bdfa80f40"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/include/x86/eu_harmonic.h",
+    "bytes": 188605,
+    "sha256": "9625f1332a119617c28e49fe15abbc83d50fcba56c4e94c09b7ceba1a850e422"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/lib/controlcan/controlcan.h",
+    "bytes": 2841,
+    "sha256": "9ecd81e9f492139203f716e73f31ff27555cca8b33600b91f127cbed76e57363"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/lib/controlcan/x86/libcontrolcan.a",
+    "bytes": 59294,
+    "sha256": "e055b3630738df080f922fd9dd9ef8e82ba9b0b90fcb1f3fa7c61afb51c8b1bd"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/lib/controlcan/x86/libcontrolcan.so",
+    "bytes": 89152,
+    "sha256": "695ff1c92b587e77bcfa23ada2ad2b3bc4651886c9a5ea4fd647537958ece215"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/lib/eyou_harmonic/x86/libcontrolcan.so",
+    "bytes": 89152,
+    "sha256": "695ff1c92b587e77bcfa23ada2ad2b3bc4651886c9a5ea4fd647537958ece215"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/lib/eyou_harmonic/x86/libcyhcs_log.so",
+    "bytes": 176488,
+    "sha256": "9ab410b5e168878a29b21316050b6250e2db1b86e4d5bc6352a8dfb964ff7474"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/lib/eyou_harmonic/x86/libeu_canable.so",
+    "bytes": 84752,
+    "sha256": "475655ef87582379ff6badd7ad4bd0a31778f1d5211de11cd55a9925ca4d10de"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/lib/eyou_harmonic/x86/libeu_harmonic.so",
+    "bytes": 1123888,
+    "sha256": "f37680e96ad30d44c10b67bbf022c8e1d763824c404d77ff91e6db89aa84298e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/admittance.cpp",
+    "bytes": 4483,
+    "sha256": "165e558526c135a363243e6cd0b948398a3ca5b9edd64eb7a8a3d30f19e8f3af"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/camera_calibration_record_new_point.cpp",
+    "bytes": 5173,
+    "sha256": "96482675da8a98ef398c20d31ffda770e4e7a73600181ed9e366fea30ed3cb17"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/collect_data_udp.cpp",
+    "bytes": 8173,
+    "sha256": "2846797a9a58c3c51726d831446876ca2efe094a046ad460c4b31cc101a5a44b"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/cur_control.cpp",
+    "bytes": 4576,
+    "sha256": "074ef5477691298595484065c093acea700ccfe349cd4835aec2d40405dcf5fb"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/forward_kinematics_from_jpos_file.cpp",
+    "bytes": 3619,
+    "sha256": "a31ce36073d9cae5c784f81090f8f829114fea5446d1aeaa97ac7f834be2dbd2"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/forward_kinematics_from_json.cpp",
+    "bytes": 8588,
+    "sha256": "054a519eee06fe615b556f6d22767db21a298a436fc11ac5be945f91a7ca6754"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/forward_kinematics_from_list.cpp",
+    "bytes": 5218,
+    "sha256": "463a4f8ca470dfba5e49e48e2a938de897e7443def52aa8ebb34d9d97e2fdc14"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/grav_comp.cpp",
+    "bytes": 4982,
+    "sha256": "4ab82793ef30f1e3b636c784b372f2b3380885a16f09a5920ed841a0ab32efa2"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/head_control.cpp",
+    "bytes": 3766,
+    "sha256": "d95d2330089fd83f9701de9097c73291cb3d9d89b796bd7fd544fe68e6430758"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/joint_position_control.cpp",
+    "bytes": 5477,
+    "sha256": "a4ee7ffe9f6d78a30b767cb58e0e52f086c67360dcf43a1fac2ea10d002ccca1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/joint_position_control_from_file.cpp",
+    "bytes": 7283,
+    "sha256": "e7dceeec96bf218a4d1f55d8b2539dff377abb95f547e859366163853fdc97c1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/joint_position_control_from_file_revised.cpp",
+    "bytes": 10527,
+    "sha256": "bb93f9bfa7e27b5fb8a2d0cabbcdeceaa6e2ccc166230946810c1b16a6fd33e7"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/joint_position_control_from_file_revised_2.cpp",
+    "bytes": 10838,
+    "sha256": "273ce307c50a3b8f00b254a7e2f72eac93d2d79d14a994a20911b6e2d7f4d16b"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/joint_position_control_vla.cpp",
+    "bytes": 5501,
+    "sha256": "d42bb4a4f6c1862f5815a8532d75f5e0e3359f6cd2ef810186349e6dcca2ed72"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/left_cur_right_pos.cpp",
+    "bytes": 5174,
+    "sha256": "81fa45b96960fca335b5b671b0c24fa6caac3cc19f93dc44627cf0848c6a1d3f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/pour_tea.cpp",
+    "bytes": 8868,
+    "sha256": "96e18a11103f412e402c02ea16f2d3571513de1d8bb9585a3861fd0b2426d98f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/task_position_control.cpp",
+    "bytes": 5189,
+    "sha256": "e5baa11315344dfd3609b3f7726c4449eedcdde1525062880f951b15fff62178"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/vel_control.cpp",
+    "bytes": 6134,
+    "sha256": "f2fb067bf468a439c8b5983d3b39fe77f939fa9e3c9f835a9924b79a336d404f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/demo/vision_pro_receiver.cpp",
+    "bytes": 13839,
+    "sha256": "55392319fbe2becbb19baacd91537cecee3898fe72f9c1136e3f27d155bf81a8"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/motor_sensor/config_loader.cpp",
+    "bytes": 9697,
+    "sha256": "785bbdb8b9756ee550c30bfd1b251030a4a628e027d0c0236210becfd273838c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/motor_sensor/eyou_joints.cpp",
+    "bytes": 25651,
+    "sha256": "4e9d740c37dcaceb84f670f7e1ded4230b852559505cacfe4989ecdf5ece9f85"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/motor_sensor/inspire_hand.cpp",
+    "bytes": 12143,
+    "sha256": "daa8c06416d5010d02ddf7554a841fc8e70a093604eb5f049c6b189d23bbaee1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/motor_sensor/torque_sensor.cpp",
+    "bytes": 4409,
+    "sha256": "8b96cceeaded28b66372e18fe3ef64a09a1dbee5562a6528eb0f3165a8750297"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/plan_control/cartesian_plan.cpp",
+    "bytes": 3654,
+    "sha256": "be66af1b9c13b038b18d22a77ae26d9acaa5681b50943dee43e67fbb544b46fd"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/plan_control/polynomial_trajectory.cpp",
+    "bytes": 2067,
+    "sha256": "383354fca611600c510a0955afabeaddd9e6415434f10efa8e6836cab976effa"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/plan_control/pos_controller.cpp",
+    "bytes": 2740,
+    "sha256": "2ce23600fe54387ab34513e0e86bb34df89f994186d2ff89f585de33bffb2ed1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/plot_trajectory.py",
+    "bytes": 7047,
+    "sha256": "85c6c0e0d382c1d10ed16e8778b24be09821086ec74a0f1231a5790d0f3ddca1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/robot_func/kinematics.cpp",
+    "bytes": 18592,
+    "sha256": "1e19bc0900e49bd2c559d420f1fb57ed28657536f3b4b70cc898d1d75ee17427"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/robot_func/robotics_math.cpp",
+    "bytes": 18762,
+    "sha256": "ff2d4ea66db65734a8e4438655841ea4ee25aba0179698a8694d8f5201087e59"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/eyou_dual_arm-multi_can/src/usb_to_can/usb_to_can.cpp",
+    "bytes": 6145,
+    "sha256": "98e06312b01f4148f9e034a08aa9d0bbd8a8e13768756be211339e0bb8ee9d34"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/motor_data/CMakeLists.txt",
+    "bytes": 426,
+    "sha256": "5b4c44c28073670c4ea46b0fa2f84abfc1aea2c6ccf7b23b4a53cddc87b7d740"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/motor_data/README.md",
+    "bytes": 12,
+    "sha256": "a23f264372ed7a17b1f2e37e23604a67bf896056adb6f6964485aad440784054"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/motor_data/motor_data.c",
+    "bytes": 3464,
+    "sha256": "5ad7f4bf633eedd33a3f6a80d1dccd6fff8de66d4fca3ffd62997dafc7f97d10"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/motor_data/motor_data.h",
+    "bytes": 3650,
+    "sha256": "7bd3b2e9f241ba6223ab16ef98936f0d7df53d67967aef9c5c78e3e3a9a17f39"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/.vscode/settings.json",
+    "bytes": 1856,
+    "sha256": "1ee8c0799076163b1e0d199a5ae901016797f6058d6ae0d415cc9090d211f4da"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/CMakeLists.txt",
+    "bytes": 6672,
+    "sha256": "b42a973cea160071e8ab0aa518ebe4fc2c8d049702fabd88951e5d8b11d43b2c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/README.md",
+    "bytes": 2898,
+    "sha256": "e7cb057cb9e44f27a9299a2e73705522318cf892e1bec2868366186fc08642ff"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/calibration_left.txt",
+    "bytes": 4904,
+    "sha256": "9b172e149b822eef910a98001115cc4e4b12aba5ee6eb04ada7ffa1a14c9bd1c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/calibration_right.txt",
+    "bytes": 4967,
+    "sha256": "a36057770e539780585a3272a672c6d4936601b487676902dedc5d038b0b8494"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/config.yaml",
+    "bytes": 5871,
+    "sha256": "5c55d219fbedb2529930495d95b88223774bc2eac0cc3dd2fb0a6fe81119dee1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/config1.yaml",
+    "bytes": 5872,
+    "sha256": "edc2423ef15c3de7ec946f73a32f69e54878454e5002161369fdff5868ea5c34"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/Matrix.hpp",
+    "bytes": 15106,
+    "sha256": "e0137a4be8b1d2478b94638679bed1495419f8ac3126af48dc01ee4df0f56b9e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/Slice.hpp",
+    "bytes": 3025,
+    "sha256": "52b8dd320bff31a6320edc64f6c083736b41e8f656e5234fd55647bc3a54962e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/SquareMatrix.hpp",
+    "bytes": 11589,
+    "sha256": "280954631fe7a080898d7e2e4de4373f801cc7330842cc1aabcd9827609e526c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/Vector.hpp",
+    "bytes": 2061,
+    "sha256": "60a2b74ef39ac2332136de2139a8f7f95ade9377ef7dd1774435c25f03981593"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/can_fd.h",
+    "bytes": 953,
+    "sha256": "f4571a8b0cec2e90c4b2f94548592deba7261ec41b685c8281596504280a20f7"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/can_normal.h",
+    "bytes": 744,
+    "sha256": "e61d0f44141e42c3fc2c2f31162519af1646c2083d56a2f4d783b7c8d7d8a99c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/config_loader.h",
+    "bytes": 8958,
+    "sha256": "d8e70f88835dd3ccf56510ee579dfde9f675b30225c39f8fcc4e54e6a4d53644"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/controlcan.h",
+    "bytes": 2841,
+    "sha256": "9ecd81e9f492139203f716e73f31ff27555cca8b33600b91f127cbed76e57363"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/kinematics.h",
+    "bytes": 1529,
+    "sha256": "604ae6070b1f50457bc89ab617c338a1a17ea4818a3034df6948dd54d1c4f144"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/logger.h",
+    "bytes": 2317,
+    "sha256": "8eb54faf54545ea74ce9953887f6c2e5126f3891bab79f7ec53a8f904be412c3"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/motor.h",
+    "bytes": 1443,
+    "sha256": "ae5b33cb2cb36c40652fdddd84c9c4a4699d73854955106f100969c23b1a15c8"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/polynomial_trajectory.h",
+    "bytes": 568,
+    "sha256": "93db62f44b94cc2306466244dfac383b5cedf8b2f8c43348717f983980c35d25"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/pos_controller.h",
+    "bytes": 1072,
+    "sha256": "6d218a5e16a822c3c0ff7c97dc4eee77fd85b922a0576417f55ca9d4f082f3a7"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/quintic_interpolation.h",
+    "bytes": 1113,
+    "sha256": "6b096525e989427597d467f57eefb5d09a052dbff7d17516b23d2f48b7ad9952"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/robot_arm.h",
+    "bytes": 2351,
+    "sha256": "5d450cc7ec0beb2fef183b089742f57d528e7643e2b4ab9a965fdd8b75a9a375"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/robot_struct.h",
+    "bytes": 3305,
+    "sha256": "410be58c04ba08f74dd2510088a7c4514c9d67176fd81517d3d6906c9a6c6e52"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/robotics_math.h",
+    "bytes": 3585,
+    "sha256": "ebf9a9ef3075138b99606ffd318780629b12eafc6af2ba67115a93f27fdac743"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/torque_sensor.h",
+    "bytes": 795,
+    "sha256": "940124b1d5e3baee25cc619efc397246b750cdb857d4dd04695f121b93729666"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/x86/eu_canable.h",
+    "bytes": 2971,
+    "sha256": "4904f7d159303024ac13aabf1ce095e839d95fe84f75a56a8b1dfd0bdfa80f40"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/include/x86/zcan.h",
+    "bytes": 18032,
+    "sha256": "0ae17ef4224f8179b3813e0bed9b8395e0f24375d54e4a052515242565bd3043"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/lib/can/x86/libcontrolcan.a",
+    "bytes": 59294,
+    "sha256": "e055b3630738df080f922fd9dd9ef8e82ba9b0b90fcb1f3fa7c61afb51c8b1bd"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/lib/can/x86/libcontrolcan.so",
+    "bytes": 89152,
+    "sha256": "695ff1c92b587e77bcfa23ada2ad2b3bc4651886c9a5ea4fd647537958ece215"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/lib/can/x86/libeu_canable.so",
+    "bytes": 57120,
+    "sha256": "ed8d935bdf3e3629a7a9f02e7984971cbcf9379d89a0b2429163046de12a5a8b"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/lib/canfd/x86/libusb-1.0.so",
+    "bytes": 311720,
+    "sha256": "904984bfc573718105ab742a2fd2ecbc5e80943c3a306b3cfa1ecd782d3177b0"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/lib/canfd/x86/libusbcanfd.so",
+    "bytes": 243600,
+    "sha256": "90c26338a927338dce66d82757823d3c1aa6a0d81d239637947e4ee138664457"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/lib/canfd/x86/libusbcanfd.so.1.0.10",
+    "bytes": 243600,
+    "sha256": "90c26338a927338dce66d82757823d3c1aa6a0d81d239637947e4ee138664457"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/lib/canfd/x86/libusbcanfd.so.1.0.8",
+    "bytes": 243600,
+    "sha256": "90c26338a927338dce66d82757823d3c1aa6a0d81d239637947e4ee138664457"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/demo/cur_control.cpp",
+    "bytes": 4075,
+    "sha256": "a32224851c7fd58996d1f3b7585f287b39fc6b879572cbc5f8c78913fe9458fc"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/demo/draw_square.cpp",
+    "bytes": 2010,
+    "sha256": "67022133778fdcd78d768d48970b1fc24e7ba7f8d283eb80f1171eccd6aa81cf"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/demo/joint_position_control.cpp",
+    "bytes": 1355,
+    "sha256": "e84476a48ab9cfd88aa6f57671b8f6a6e1a102cc0bd63ee4e619dd9f139248e2"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/demo/task_position_control.cpp",
+    "bytes": 1864,
+    "sha256": "8f355713ba13b015cd474e462d81286b699ee4f7fda2a100814583ad7660bdfe"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/demo/trajectory_list_move.cpp",
+    "bytes": 2057,
+    "sha256": "efbb0c18a7d2cafc5aa926ccd60006376b0c5f7081a97acb8cce132ea463d834"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/motor_sensor/motor.cpp",
+    "bytes": 4771,
+    "sha256": "42c1f4db59fea97c7ebb80973fa40ec144828ccc1dd54251201b460d2e5fb029"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/motor_sensor/robot_arm.cpp",
+    "bytes": 33948,
+    "sha256": "9977e3cc93e33ce2525950b9b7e1972e22eacdc3a565962b8100dabe8dd351e1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/motor_sensor/torque_sensor.cpp",
+    "bytes": 853,
+    "sha256": "076642147d5826b7865cff6d175138599d84d5e596c619b9a2ade06410867c8f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/plan_control/polynomial_trajectory.cpp",
+    "bytes": 2067,
+    "sha256": "383354fca611600c510a0955afabeaddd9e6415434f10efa8e6836cab976effa"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/plan_control/pos_controller.cpp",
+    "bytes": 2534,
+    "sha256": "5e94a75ed8dad263f26024803ac8cb0a2e4aaa41572e50572fba6d3e6fd75a34"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/robot_func/kinematics.cpp",
+    "bytes": 10632,
+    "sha256": "264b946047ae608ef9ef2130be7f1cdd71bcca02b87bfae10e004d2962db6cba"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/robot_func/robotics_math.cpp",
+    "bytes": 18833,
+    "sha256": "969123dc22ec9a8cf95186fd50d36aed42700deed687cd8361a6991e2a8d4846"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/usb_to_can/can_fd.c",
+    "bytes": 5404,
+    "sha256": "d78b1ac404a39112c9380c3e46726eca200ae4de56262c8501bab5685d7a9175"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/src/usb_to_can/can_normal.cpp",
+    "bytes": 4622,
+    "sha256": "2670051cc2a5a646bf50a3e016d9328b24a0b8e2941ddda197c2056c7d0a6b68"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/trajectory.yaml",
+    "bytes": 2247,
+    "sha256": "91242c0c636811055751538b3ecc9bd4c53c53d1a1771c8384bfc2fe6c5b2cf8"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/serial/README.md",
+    "bytes": 35,
+    "sha256": "6ef819dc7d6f16787ff204ba23382562810bca75c08423522ea1ff439fb9e23b"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/serial/serial.c",
+    "bytes": 10084,
+    "sha256": "ab8337b26e1610abc865f6b4092e6d0126aa06e1c432784f3e42b1217cdb4f5a"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/serial/serial.h",
+    "bytes": 4521,
+    "sha256": "84dff3da56837b14cbd85ad6023f4ab47db2238f43e9114d016acffd493b14ce"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/serial_uart_servo/CMakeLists.txt",
+    "bytes": 729,
+    "sha256": "5186cf68afe3b8a2a6a823777d0cd7f29d6fda2a01e01acd73d296e4e6f43e02"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/serial_uart_servo/README.md",
+    "bytes": 219,
+    "sha256": "561476d71e2c8d2bcf54aab62a4bcf1b19c233d3a1feaecad2b0cff240ef3ee8"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/serial_uart_servo/main.c",
+    "bytes": 620,
+    "sha256": "d4f3b1b410aec43d660ea9457f81a81f641a52617f9f668750cbd6b47a732ef3"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/serial_uart_servo/serial_uart_servo.c",
+    "bytes": 2572,
+    "sha256": "69695400b531de72f99d9594d8f7d712505a50be8db34f14f78232eae14dfbd0"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/serial_uart_servo/serial_uart_servo.h",
+    "bytes": 563,
+    "sha256": "3ec642d09b9becd1d815edd26968c6b081ff87cdd527bef290bc747b13b3ad2f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/CMakeLists.txt",
+    "bytes": 4966,
+    "sha256": "6357762aa0e301891c55c0f49be523bee0f1b6d74d80c2c0ac81b190da110f0a"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/ReadMe.md",
+    "bytes": 1382,
+    "sha256": "556a697ed3cbffdf7dc62d203062b166513c23c2d529e55b8af09dfcd8a733a3"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/beta.txt",
+    "bytes": 824,
+    "sha256": "810577684dbc26ac858431fa43bfd178aa96ee579e9c498337e8bc511de560c8"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/config.yaml",
+    "bytes": 1957,
+    "sha256": "cef385ddd117e6745da91efddb8701bf6d1635aaf419b949fdef8aa7c3858bb6"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/Matrix.hpp",
+    "bytes": 15106,
+    "sha256": "e0137a4be8b1d2478b94638679bed1495419f8ac3126af48dc01ee4df0f56b9e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/Slice.hpp",
+    "bytes": 3025,
+    "sha256": "52b8dd320bff31a6320edc64f6c083736b41e8f656e5234fd55647bc3a54962e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/SquareMatrix.hpp",
+    "bytes": 11589,
+    "sha256": "280954631fe7a080898d7e2e4de4373f801cc7330842cc1aabcd9827609e526c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/Vector.hpp",
+    "bytes": 2061,
+    "sha256": "60a2b74ef39ac2332136de2139a8f7f95ade9377ef7dd1774435c25f03981593"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/can_fd.h",
+    "bytes": 900,
+    "sha256": "c904f9e2ccd818a97b9c39fe5c30602113c8971e1d7570cf5abbef1378ede144"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/can_normal.h",
+    "bytes": 497,
+    "sha256": "8489f803d0e0fa529a037b6cb2334b6088dc6a4c309f9ebb53b0ae76c1ca9adc"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/ccg_controller.h",
+    "bytes": 1064,
+    "sha256": "6775bb29ab75d9bc17e56dae2821ffa88d969547a919ce55679d19b2fa87923b"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/ccg_fric_controller.h",
+    "bytes": 457,
+    "sha256": "769a0b596198a952de1e9fb1fff360595b4c36508db63812fe119f43324312a7"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/config_loader.h",
+    "bytes": 6743,
+    "sha256": "7e9fb7d0e5956427b4fc1de1bcf0ee14fe70635453603ae81421ded268c993d2"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/kinematics.h",
+    "bytes": 1499,
+    "sha256": "8dfde41e09284af32a8782071d19c24ab6c90d4cc513a6c1c34cb961634eae6e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/motor.h",
+    "bytes": 3721,
+    "sha256": "68778be0e689d6b8c7a143ee8645002add78711ab333cd057078233bae49bd9c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/motor_interface.h",
+    "bytes": 1995,
+    "sha256": "26696b29fa74aa8aa601ead05735b51afb4f05c0846e83b4dfd1b79e0ffa0cc5"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/polynomial_trajectory.h",
+    "bytes": 568,
+    "sha256": "93db62f44b94cc2306466244dfac383b5cedf8b2f8c43348717f983980c35d25"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/robot_arm.h",
+    "bytes": 2603,
+    "sha256": "483c2457b84a8b323b37a856edd3000578e9f9493ff5e3d4bbfa996c35259a0f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/robot_struct.h",
+    "bytes": 2571,
+    "sha256": "1db638b42b27177912bf6703fdfd31b967ec44213f1d6a817078f99398dd08cf"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/robotics_math.h",
+    "bytes": 3578,
+    "sha256": "f7fb9d12f1b23c01d341c2c1eed463270e22e9ad748c5ae478a2cb2eb10e5383"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/serial.h",
+    "bytes": 4521,
+    "sha256": "84dff3da56837b14cbd85ad6023f4ab47db2238f43e9114d016acffd493b14ce"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/serial_sbt_force_sensor.h",
+    "bytes": 2598,
+    "sha256": "c7445f5cc46c56c642682b3cb4fd059f0f93d15fd58e384f8ee96124ea104032"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/torque_sensor.h",
+    "bytes": 707,
+    "sha256": "b53ca7c126999eb2df69f320eef78febbf444ada0050077eade42c7db788ed45"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/x86/eu_canable.h",
+    "bytes": 2971,
+    "sha256": "4904f7d159303024ac13aabf1ce095e839d95fe84f75a56a8b1dfd0bdfa80f40"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/include/x86/zcan.h",
+    "bytes": 18032,
+    "sha256": "0ae17ef4224f8179b3813e0bed9b8395e0f24375d54e4a052515242565bd3043"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/lib/can/x86/libeu_canable.so",
+    "bytes": 57120,
+    "sha256": "ed8d935bdf3e3629a7a9f02e7984971cbcf9379d89a0b2429163046de12a5a8b"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/lib/canfd/x86/libusb-1.0.so",
+    "bytes": 311720,
+    "sha256": "904984bfc573718105ab742a2fd2ecbc5e80943c3a306b3cfa1ecd782d3177b0"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/lib/canfd/x86/libusbcanfd.so",
+    "bytes": 243600,
+    "sha256": "90c26338a927338dce66d82757823d3c1aa6a0d81d239637947e4ee138664457"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/lib/canfd/x86/libusbcanfd.so.1.0.10",
+    "bytes": 243600,
+    "sha256": "90c26338a927338dce66d82757823d3c1aa6a0d81d239637947e4ee138664457"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/lib/canfd/x86/libusbcanfd.so.1.0.8",
+    "bytes": 243600,
+    "sha256": "90c26338a927338dce66d82757823d3c1aa6a0d81d239637947e4ee138664457"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/cur_control.cpp",
+    "bytes": 1486,
+    "sha256": "f94f0cfd2c171b7c55faaf4c27ca17747917dec4807995db43660e60e252cf95"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/cur_control_calibration.cpp",
+    "bytes": 4694,
+    "sha256": "fa4ed13600577318a4ee653b2c67550d21e2e376599c15e2c90ae5b872892105"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/cur_test.cpp",
+    "bytes": 1914,
+    "sha256": "43384f5f251b9becd49783e33da2efa19d97cf42cd9f8f0220ef131f8e8bfddd"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/enable.cpp",
+    "bytes": 1438,
+    "sha256": "189f94833957952b7201a2f5e007f68f125df024006d7d46bcce1060863d7600"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/force_reading.cpp",
+    "bytes": 3456,
+    "sha256": "39e954b55a7a0a02a680e098ac66493316d002f2eca5f7555922196fd76bd069"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/force_reading.py",
+    "bytes": 1908,
+    "sha256": "63caa66a2ce23f5d858f6d8fd0f66fa54d31b223515fa0707870abd68dec92f4"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/force_sensor/serial.c",
+    "bytes": 10084,
+    "sha256": "ab8337b26e1610abc865f6b4092e6d0126aa06e1c432784f3e42b1217cdb4f5a"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/force_sensor/serial_sbt_force_sensor.c",
+    "bytes": 3398,
+    "sha256": "d6d458ddf7e640073c06b3a71392b23ebac5d93c039438b391a93bcf2118b840"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/go_home.cpp",
+    "bytes": 982,
+    "sha256": "4a8928d046ea1f259845c54ce0514732fc527507bd7d8ea38a4df50aebebe0f3"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/grav_comp.cpp",
+    "bytes": 3347,
+    "sha256": "bb933c125c26042d6de0a81fbf438753a8eb845d057de5f2e7bbd9ab51a4a32a"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/grav_comp_with_fric.cpp",
+    "bytes": 4016,
+    "sha256": "1826e21086cbd45165aa185524480d285b58225e503ff7987ab2ae027497c538"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/grav_comp_with_tqs.cpp",
+    "bytes": 4388,
+    "sha256": "7a8078577ad5f02f6eb33ea9eee527d76bfcaa45aaa3ab276ec5baced40c907f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/hardware/motor.cpp",
+    "bytes": 12000,
+    "sha256": "1cf86155aa3f19cf1f1632a79f12fa4891eaa7b3c6e0d574684160376445142a"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/hardware/robot_arm.cpp",
+    "bytes": 21013,
+    "sha256": "f22e614d7ed7c08f7ef229adf9cf33dfc41ea70946c75b948fe62b3280117f35"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/hardware/torque_sensor.cpp",
+    "bytes": 776,
+    "sha256": "47512eebef6ba47539822002eca767ccc5b3817cc5f255817f0453a145d7d7e2"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/joint_position_control_from_file_revised.cpp",
+    "bytes": 8310,
+    "sha256": "d1e2ebd7bff46229bca778ee16b803fdecb2c375782db02b4f9de4956f69b210"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/kinematic/kinematics.cpp",
+    "bytes": 10632,
+    "sha256": "db42d851ad9cd8304624e2ba0697e17a4bcf9336097517442f526d4587d87ab0"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/kinematic/robotics_math.cpp",
+    "bytes": 18803,
+    "sha256": "f3c421e6ecc11e340d4b3ece7c7d6b39d00de3d92b0039841c4544d042d16aeb"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/plan/ccg_controller.cpp",
+    "bytes": 13318,
+    "sha256": "3287df89bfd28a58737e06ec6c5b11084ec24d98a9ffbc8825a423567522f12d"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/plan/ccg_fric_controller.cpp",
+    "bytes": 14276,
+    "sha256": "451bdf015fc13f3f67cb0f706c84c507408ddd06b44f8d7200a8225f4507fe77"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/plan/polynomial_trajectory.cpp",
+    "bytes": 2067,
+    "sha256": "383354fca611600c510a0955afabeaddd9e6415434f10efa8e6836cab976effa"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/pos_control.cpp",
+    "bytes": 1585,
+    "sha256": "1ebadec2a64e48bed34a9e4ee6164f254eaec1f072949de3e5f7d6abde696139"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/pos_control_task.cpp",
+    "bytes": 2863,
+    "sha256": "10abf6843b621012e7626e9c5eed57074302830bbe2a10b27dfff9d949c373f7"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/rensense.py",
+    "bytes": 487,
+    "sha256": "3d37a4996d5240c108e784f7bb56ea0c791dca2368aab70616dda8b893608d3e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/test_torque_sensor.cpp",
+    "bytes": 1877,
+    "sha256": "f827778a6737a672b459df6129842cd432b82195bdeadc226009b64f09ad9970"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/usb_to_can/can_fd.c",
+    "bytes": 3582,
+    "sha256": "e7c01aab993484ab5d439c2f57093f2d97634f9097461cc47294abd2da7d831d"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/single_arm_v1/src/usb_to_can/can_normal.cpp",
+    "bytes": 1737,
+    "sha256": "855080d3fcd24911c3894945261a33d4e80565e2001908d8f1dc4ea9cad0ad5c"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/usb_to_can/.vscode/settings.json",
+    "bytes": 1575,
+    "sha256": "144239d9d651c33dc3a1a447d43c0d29d0ed453aacdab601485a4c27a5a1c469"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/usb_to_can/CMakeLists.txt",
+    "bytes": 2587,
+    "sha256": "7d8a3711d86737691a0c96a08085fcc615a640ca2a07eaebf028bd7be314ed96"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/usb_to_can/libusb/libusb.h",
+    "bytes": 76208,
+    "sha256": "ca94b99bf4ca9c588804eb0b2187f237a165d80b22054a27608abee3280b8eb0"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/usb_to_can/libusb/linux/amd64/libusb-1.0.so",
+    "bytes": 489856,
+    "sha256": "0d9f8a9fb0d848284425947b93f66951c0885c9ef4e416255c672db991c49b92"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/usb_to_can/src/usb_can_rmd_motor.cpp",
+    "bytes": 4882,
+    "sha256": "dd858bd1b55c0821fca02d109709fd7945dee89da58e2746f262e902c08a8526"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/usb_to_can/src/usb_can_rmd_motor.h",
+    "bytes": 1012,
+    "sha256": "d5304c51203332b3b0b2f34559129bae6b03ca415f2e4f93ecd0f5f7a567466e"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/usb_to_can/src/usb_to_can.c",
+    "bytes": 7309,
+    "sha256": "0d5691ee0841d08fb023a56f7f70e65bdab02fe16b75e06dc8f38b8a9ecd1d08"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/usb_to_can/src/usb_to_can.h",
+    "bytes": 2489,
+    "sha256": "bac3d1d5e13e1a351a2e680ceb0dda85e814fcacdc983eb6ad3f5d4bf13282fd"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/install.sh",
+    "bytes": 1766,
+    "sha256": "72e29d8f334114fceb91ef79b819e0e33c7b1d2b57b75f3e498ccd650646cea1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/arm/arm_v1.cpp",
+    "bytes": 7944,
+    "sha256": "cdda83586d9ae6b381dcc8e24fe2f2e97a171d2912f0ce8c3a21ad4124efafc5"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/arm/arm_v1.h",
+    "bytes": 2042,
+    "sha256": "ed137dd081a4b6ff2e703e6687fecbc78b54ab4edfc90acb848c893f6e4d208b"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/arm/dual_v1_arm.cpp",
+    "bytes": 6696,
+    "sha256": "f7e13939547935b628bbb8f3e9713d1903258859604402fe74ae2a5e9b48476b"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/arm/dual_v1_arm.h",
+    "bytes": 2101,
+    "sha256": "d193b7b30d34396f9514b196718604ef99386d6765d6982b68cd70ccae0ce9a1"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/arm/dual_v2_1_arm.cpp",
+    "bytes": 7721,
+    "sha256": "482029e6b272c2683f76af0e8e712ce0007c0c229d0f2510465ca94bc40f064f"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/arm/dual_v2_1_arm.h",
+    "bytes": 1891,
+    "sha256": "1e0704d50a6c051cbc5c040ac17805e5b239793931bec333980077333a4080fc"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/arm/dual_v2_2_arm.cpp",
+    "bytes": 8349,
+    "sha256": "16ebab04468b5c84077d19c5046ee2b25545acafc735b2a199f631d06ef6a76d"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/arm/dual_v2_2_arm.h",
+    "bytes": 1892,
+    "sha256": "9d1eaf5dbb0e80c343a417b7b3dfba3c86ec6b4007baeb01cf8d913d37759a8a"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/circular_queue.cpp",
+    "bytes": 1162,
+    "sha256": "7352576c81dd201eaddb6191e3c4bf5e18d30dda6844dc27640198536a0db354"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/circular_queue.h",
+    "bytes": 2324,
+    "sha256": "020223bc5184be4e479337056640287531bbaa735bc1845870fc6eca1591728a"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/file_utils.h",
+    "bytes": 252,
+    "sha256": "f4f51f34cea3c2a05ab664e1665e8b17ce90921f504e7fd4b69b6248d404cfba"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/gripper/abstract_gripper.cpp",
+    "bytes": 3268,
+    "sha256": "3c283c5a97962b8f0d3afac7443eaf4802ddd9fa26564b92c7d15df6c9bc0514"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/gripper/abstract_gripper.h",
+    "bytes": 2090,
+    "sha256": "b7381915b0767c40d7fe93933501bf44865bdbe0126f8af4d3154fbc32e8471d"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/gripper/inspire_hand_wrapper.cpp",
+    "bytes": 3064,
+    "sha256": "e1d0a524cdc32b5711023a691dc92c905a3abe161d25e1f6c595af2d9bbbee73"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/gripper/inspire_hand_wrapper.h",
+    "bytes": 1409,
+    "sha256": "b264bf0ebafa39016f3ca8097a41e3e064f62b5f5ca13c0d1a23bd9ece1013b6"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/gripper/uart_servo_two_finger_gripper.cpp",
+    "bytes": 2578,
+    "sha256": "a5ee31accae1ef9a5eae9227c7b2245783dd16267f7f4be926f54161c05b0b46"
+  },
+  {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/src/gripper/uart_servo_two_finger_gripper.h",
+    "bytes": 1314,
+    "sha256": "c9636037c0ec7a56d0e043331923f3fa9a22702da8e26001a70ec9d5be9ce158"
+  },
+  {
+    "path": "/home/erazer/deepseek_camera_tool/99-vision-tool-wrist.rules",
+    "bytes": 331,
+    "sha256": "c679e6dca9984ffaa358da62efae0dfe945ce147168ea0ae7bd005b3521e3bc3"
+  },
+  {
+    "path": "/home/erazer/deepseek_camera_tool/client.py",
+    "bytes": 1574,
+    "sha256": "16c3f804824d4172ff904f0ad511f0e50db7a6447f3a7b2850f01096646a2a2b"
+  },
+  {
+    "path": "/home/erazer/deepseek_camera_tool/core.py",
+    "bytes": 16329,
+    "sha256": "927b67895f91442311d81a909a0cc07cfe373b279b677666329e307deb3cd5db"
+  },
+  {
+    "path": "/home/erazer/deepseek_camera_tool/ensure_ready.py",
+    "bytes": 3787,
+    "sha256": "34e7b6343177d521c382c3546f4b083f0ec87c00d5ca1107b4615c527cf6a2fd"
+  },
+  {
+    "path": "/home/erazer/deepseek_camera_tool/install_155.sh",
+    "bytes": 1003,
+    "sha256": "364ef6a02a50ab35f1013dc084eb5289b87b4e24bf8be74029d19ef5e59702a4"
+  },
+  {
+    "path": "/home/erazer/deepseek_camera_tool/requirements.txt",
+    "bytes": 114,
+    "sha256": "519d761f47dbc6c67907e9e1f8f43eca9f64de4d66896e3b4e8932d995d0f52a"
+  },
+  {
+    "path": "/home/erazer/deepseek_camera_tool/server.py",
+    "bytes": 7809,
+    "sha256": "a4cb592439596504a5454fcca54bb29bd05607b33be80ba09effadbfeed97afb"
+  },
+  {
+    "path": "/home/erazer/deepseek_camera_tool/vision_tool.sh",
+    "bytes": 202,
+    "sha256": "18570b9f1d00c6262b618143d96b98dab93b7b92cdea1c34de3ed8e5e0d3c265"
+  },
+  {
+    "path": "/mnt/data/erazer/left_suction/d405_service/left-suction-d405.service",
+    "bytes": 550,
+    "sha256": "5935d8f9f9ef1c60e0d65e672943088e02dd06bec817cab15a3628ad3be121da"
+  },
+  {
+    "path": "/mnt/data/erazer/left_suction/d405_service/service.py",
+    "bytes": 5651,
+    "sha256": "00c46598504bbf130cad414ae1629416c0dcb03ecae0a7eb8652145391fce868"
+  },
+  {
+    "path": "/mnt/data/erazer/left_suction/d405_service/transport.py",
+    "bytes": 2468,
+    "sha256": "95efae04be39cf0dbe8ed0491b7fdd94ca869d05308000395d12dd4e300a441d"
+  },
+  {
+    "path": "/mnt/data/erazer/left_suction/realsense_sdk/pyrealsense2/__init__.py",
+    "bytes": 307,
+    "sha256": "75f6ce133c0b1daa1ecc9e8d498b81fdf056282f230f7f729006b024331cfc6c"
+  },
+  {
+    "path": "/mnt/data/erazer/left_suction/realsense_sdk/pyrealsense2/pyrealdds.cpython-310-x86_64-linux-gnu.so",
+    "bytes": 11141552,
+    "sha256": "75ddda5cde30e4bf49b0ef1ff06fc37ea2568ee7bf3d59aeb47503d106cbd96e"
+  },
+  {
+    "path": "/mnt/data/erazer/left_suction/realsense_sdk/pyrealsense2/pyrealdds.cpython-310-x86_64-linux-gnu.so.debug",
+    "bytes": 3128,
+    "sha256": "e065760bf2e0f91eecebebb9deb4c850e3aa0b9de0fbc40621b498425386eaa8"
+  },
+  {
+    "path": "/mnt/data/erazer/left_suction/realsense_sdk/pyrealsense2/pyrealsense2.cpython-310-x86_64-linux-gnu.so",
+    "bytes": 27506448,
+    "sha256": "d5e5ab5d682dfd826629ef965079a5e1533052fe1f6b39f4629aab96ce9d2d52"
+  },
+  {
+    "path": "/mnt/data/erazer/left_suction/realsense_sdk/pyrealsense2/pyrealsense2.cpython-310-x86_64-linux-gnu.so.debug",
+    "bytes": 3128,
+    "sha256": "769635fb59e9a1edf1292aa0c12d944a9bd06790f75a47a5fd90f9a549d31a61"
+  },
+  {
+    "path": "/mnt/data/erazer/left_suction/realsense_sdk/pyrealsense2/pyrsutils.cpython-310-x86_64-linux-gnu.so",
+    "bytes": 826528,
+    "sha256": "732638f6d64b23aa551de7f2e213b6cfbf1592a010b53f34ab28b55614b55f7c"
+  },
+  {
+    "path": "/mnt/data/erazer/left_suction/realsense_sdk/pyrealsense2/pyrsutils.cpython-310-x86_64-linux-gnu.so.debug",
+    "bytes": 3000,
+    "sha256": "933e9fb6088e81e1fb694ef33cabe14c3e4f9ef917ac202a4edb35febf0218a8"
+  },
+  {
+    "path": "/mnt/data/erazer/left_suction/realsense_sdk/pyrealsense2-2.59.1.11053.dist-info/licenses/LICENSE",
+    "bytes": 11352,
+    "sha256": "c7aa1fdf0e38c4827fef17859ddbfac800b8995f3ec875a06dd23c79135f956d"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/manifest.json",
+    "bytes": 6070,
+    "sha256": "6574929d5b3b90de427d05f86e0c0b891c5d924cd1c761f520a4a03143932076"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/Matrix.hpp",
+    "bytes": 15106,
+    "sha256": "e0137a4be8b1d2478b94638679bed1495419f8ac3126af48dc01ee4df0f56b9e"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/Slice.hpp",
+    "bytes": 3025,
+    "sha256": "52b8dd320bff31a6320edc64f6c083736b41e8f656e5234fd55647bc3a54962e"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/SquareMatrix.hpp",
+    "bytes": 11589,
+    "sha256": "280954631fe7a080898d7e2e4de4373f801cc7330842cc1aabcd9827609e526c"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/Vector.hpp",
+    "bytes": 2061,
+    "sha256": "60a2b74ef39ac2332136de2139a8f7f95ade9377ef7dd1774435c25f03981593"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/can_fd.h",
+    "bytes": 953,
+    "sha256": "f4571a8b0cec2e90c4b2f94548592deba7261ec41b685c8281596504280a20f7"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/can_normal.h",
+    "bytes": 744,
+    "sha256": "e61d0f44141e42c3fc2c2f31162519af1646c2083d56a2f4d783b7c8d7d8a99c"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/config_loader.h",
+    "bytes": 8958,
+    "sha256": "d8e70f88835dd3ccf56510ee579dfde9f675b30225c39f8fcc4e54e6a4d53644"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/controlcan.h",
+    "bytes": 2841,
+    "sha256": "9ecd81e9f492139203f716e73f31ff27555cca8b33600b91f127cbed76e57363"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/kinematics.h",
+    "bytes": 1529,
+    "sha256": "604ae6070b1f50457bc89ab617c338a1a17ea4818a3034df6948dd54d1c4f144"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/logger.h",
+    "bytes": 2317,
+    "sha256": "8eb54faf54545ea74ce9953887f6c2e5126f3891bab79f7ec53a8f904be412c3"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/motor.h",
+    "bytes": 1547,
+    "sha256": "4c85f2e327c474ec66c920f5dc3ae791e0bbf472c4d5d294a107a229b6137b20"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/polynomial_trajectory.h",
+    "bytes": 568,
+    "sha256": "93db62f44b94cc2306466244dfac383b5cedf8b2f8c43348717f983980c35d25"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/pos_controller.h",
+    "bytes": 1072,
+    "sha256": "6d218a5e16a822c3c0ff7c97dc4eee77fd85b922a0576417f55ca9d4f082f3a7"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/quintic_interpolation.h",
+    "bytes": 1113,
+    "sha256": "6b096525e989427597d467f57eefb5d09a052dbff7d17516b23d2f48b7ad9952"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/robot_arm.h",
+    "bytes": 2446,
+    "sha256": "efecacf35bdec0cb7469b58beda39c6892552d2b75e9b9f30b9f5de5dd236d8c"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/robot_struct.h",
+    "bytes": 3305,
+    "sha256": "410be58c04ba08f74dd2510088a7c4514c9d67176fd81517d3d6906c9a6c6e52"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/robotics_math.h",
+    "bytes": 3585,
+    "sha256": "ebf9a9ef3075138b99606ffd318780629b12eafc6af2ba67115a93f27fdac743"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/status_velocity.h",
+    "bytes": 2397,
+    "sha256": "d0dea124fea07eecbe7d69fa7b787dff43a4ceb62bb26fd0140dc582f5709174"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/torque_sensor.h",
+    "bytes": 795,
+    "sha256": "940124b1d5e3baee25cc619efc397246b750cdb857d4dd04695f121b93729666"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/x86/eu_canable.h",
+    "bytes": 2971,
+    "sha256": "4904f7d159303024ac13aabf1ce095e839d95fe84f75a56a8b1dfd0bdfa80f40"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/include/x86/zcan.h",
+    "bytes": 18032,
+    "sha256": "0ae17ef4224f8179b3813e0bed9b8395e0f24375d54e4a052515242565bd3043"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/src/motor_sensor/motor.cpp",
+    "bytes": 4783,
+    "sha256": "d892ff724b63cfb37d1476fe7551298e68817fe99dbaa530ba2a1e56dcb361c8"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/src/motor_sensor/robot_arm.cpp",
+    "bytes": 35686,
+    "sha256": "a474f94718a3602165390c6efcf16617402665e225887d927b9adcdc534f227d"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/hardware_modules/realman_dual_arm/src/usb_to_can/can_fd.c",
+    "bytes": 5571,
+    "sha256": "8762304a3ef44133e8f0fcf21546c7b904574c8b349ec7cbc74892a203c3f5b6"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/rt_control.cpp",
+    "bytes": 65381,
+    "sha256": "43d7faa177bc65b40f9efd903b99f1aabac79ac379e821eceee57ccec07f4d68"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/src/arm/dual_v2_2_arm.cpp",
+    "bytes": 8642,
+    "sha256": "3c4b18d3bc5dd334bed43998024981e09ec83d1ec1451ff3b1d4864173d76f43"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/src/arm/dual_v2_2_arm.h",
+    "bytes": 1892,
+    "sha256": "9d1eaf5dbb0e80c343a417b7b3dfba3c86ec6b4007baeb01cf8d913d37759a8a"
+  },
+  {
+    "path": "/mnt/data/erazer/rt_can_feedback_20261104/candidate/source/validate_read.h",
+    "bytes": 620,
+    "sha256": "e7ce9fde0961380e025466fc05c20a2daa5535955a3fc59298a75b58781942cb"
+  },
+  {
+    "path": "/home/erazer/Seldon/keyboard_cockpit/config.json",
+    "bytes": 367,
+    "sha256": "ab136ec400d0adf9173075711ccca3cd73dd1b6d7b70c091a71cd209045c9c48",
+    "camera_only": true
+  }
+]

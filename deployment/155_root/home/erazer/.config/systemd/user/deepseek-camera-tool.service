@@ -1,0 +1,11 @@
+[Unit]
+Description=155 read-only DeepSeek Harness camera tools
+[Service]
+Type=simple
+WorkingDirectory=/home/erazer/deepseek_camera_tool
+ExecStart=/home/erazer/deepseek_camera_tool/.venv/bin/python /home/erazer/deepseek_camera_tool/server.py
+Restart=on-failure
+RestartSec=3
+Nice=5
+[Install]
+WantedBy=default.target

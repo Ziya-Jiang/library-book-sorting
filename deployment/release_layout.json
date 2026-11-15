@@ -1,0 +1,7 @@
+{
+  "remote_root": "/mnt/data/erazer/book_grasp/dual_arm_j6_continuous_runtime/releases/continuous_gripper_endpoint_20261114_q066",
+  "symlinks": {
+    "configuration/meshes": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share/meshes"
+  },
+  "binary": "runtime/build/seldon_rt_control"
+}

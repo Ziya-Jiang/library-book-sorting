@@ -1,0 +1,793 @@
+{
+  "serial": "261122273825",
+  "intrinsics": {
+    "serial": "261122273825",
+    "K": [
+      [
+        435.6912536621094,
+        0,
+        421.923583984375
+      ],
+      [
+        0,
+        435.0560302734375,
+        236.6876678466797
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "D": [
+      -0.05155261978507042,
+      0.05208323150873184,
+      0.0007459167973138392,
+      -0.00015652178262826055,
+      -0.017275668680667877
+    ],
+    "width": 848,
+    "height": 480,
+    "distortion_model": "distortion.inverse_brown_conrady",
+    "rays_sha256": "c14f0ecad201b028e1b97568774d140a2b4759aee7de047521a495a12ec7a6f1"
+  },
+  "alignment": {
+    "translation_mm": [
+      8.5,
+      41.5,
+      14
+    ],
+    "rotation_deg": [
+      5.4,
+      -6.2,
+      4.6
+    ],
+    "base_model_hash": "89956e64716377ac2d3d9716f5bff410fd534a72f1706c050c6ba194b9246ed3",
+    "saved": true,
+    "saved_unix_s": 1794281700.260973,
+    "scope": "project_gui_only",
+    "method": "manual_visual_alignment_not_independent_calibration",
+    "reference_frame": "arm_end_effector_l",
+    "rotation_convention": "R_new=Rz(yaw) Ry(pitch) Rx(roll) R_nominal; rotate about optical origin; translation in flange axes",
+    "T_ee_from_color_optical": [
+      [
+        0.6325549338469215,
+        -0.6863154491624528,
+        -0.35895035855513135,
+        0.06101253018526272
+      ],
+      [
+        0.7605693052138789,
+        0.6379805190091751,
+        0.12047899954457174,
+        -0.02231961940511471
+      ],
+      [
+        0.1463167373624565,
+        -0.3492162103994088,
+        0.9255481893245115,
+        0.055918604556259396
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "T_ee_from_color_optical_nominal": [
+      [
+        0.7032716593519203,
+        -0.6669524327322799,
+        -0.24613700580142372,
+        0.05251253018526272
+      ],
+      [
+        0.7109105580027428,
+        0.6616617711999235,
+        0.23834823064753063,
+        -0.06381961940511471
+      ],
+      [
+        0.0038925149486107855,
+        -0.3426049518104976,
+        0.939471497876493,
+        0.0419186045562594
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "planner_applied": false
+  },
+  "kinematics": {
+    "joints": [
+      {
+        "name": "w0",
+        "type": "fixed",
+        "parent": "dummy_world",
+        "child": "SJ4Z",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.342
+        ],
+        "rpy": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J1_l",
+        "type": "revolute",
+        "parent": "arm_base_link_l",
+        "child": "arm_L1_l",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          0.211,
+          0.0
+        ],
+        "rpy": [
+          -1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J2_l",
+        "type": "revolute",
+        "parent": "arm_L1_l",
+        "child": "arm_L2_l",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rpy": [
+          -1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J3_l",
+        "type": "revolute",
+        "parent": "arm_L2_l",
+        "child": "arm_L3_l",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          -0.34955,
+          0.0
+        ],
+        "rpy": [
+          1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J4_l",
+        "type": "revolute",
+        "parent": "arm_L3_l",
+        "child": "arm_L4_l",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.038567,
+          0.0,
+          0.0
+        ],
+        "rpy": [
+          -1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J5_l",
+        "type": "revolute",
+        "parent": "arm_L4_l",
+        "child": "arm_L5_l",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          -0.352,
+          0.0
+        ],
+        "rpy": [
+          1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J6_l",
+        "type": "revolute",
+        "parent": "arm_L5_l",
+        "child": "arm_L6_l",
+        "axis": [
+          -1.0,
+          0.0,
+          0.0
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rpy": [
+          -1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J7_l",
+        "type": "revolute",
+        "parent": "arm_L6_l",
+        "child": "arm_L7_l",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          -0.11,
+          0.0
+        ],
+        "rpy": [
+          1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J8_l",
+        "type": "fixed",
+        "parent": "arm_L7_l",
+        "child": "arm_end_effector_l",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rpy": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "J0_l",
+        "type": "fixed",
+        "parent": "SJ4Z",
+        "child": "arm_base_link_l",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rpy": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J1_r",
+        "type": "revolute",
+        "parent": "arm_base_link_r",
+        "child": "arm_L1_r",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          -0.211,
+          0.0
+        ],
+        "rpy": [
+          -1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J2_r",
+        "type": "revolute",
+        "parent": "arm_L1_r",
+        "child": "arm_L2_r",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rpy": [
+          1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J3_r",
+        "type": "revolute",
+        "parent": "arm_L2_r",
+        "child": "arm_L3_r",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          -0.34955,
+          0.0
+        ],
+        "rpy": [
+          -1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J4_r",
+        "type": "revolute",
+        "parent": "arm_L3_r",
+        "child": "arm_L4_r",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.038567,
+          0.0,
+          0.0
+        ],
+        "rpy": [
+          1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J5_r",
+        "type": "revolute",
+        "parent": "arm_L4_r",
+        "child": "arm_L5_r",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          -0.352,
+          0.0
+        ],
+        "rpy": [
+          -1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J6_r",
+        "type": "revolute",
+        "parent": "arm_L5_r",
+        "child": "arm_L6_r",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rpy": [
+          1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J7_r",
+        "type": "revolute",
+        "parent": "arm_L6_r",
+        "child": "arm_L7_r",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          -0.11,
+          0.0
+        ],
+        "rpy": [
+          -1.57079632,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "arm_J8_r",
+        "type": "fixed",
+        "parent": "arm_L7_r",
+        "child": "arm_end_effector_r",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rpy": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "J0_r",
+        "type": "fixed",
+        "parent": "SJ4Z",
+        "child": "arm_base_link_r",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rpy": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "gripper_J1_r",
+        "type": "prismatic",
+        "parent": "gripper_base_link_r",
+        "child": "gripper_L1_r",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          -0.034261,
+          0.0,
+          0.11826
+        ],
+        "rpy": [
+          1.5708,
+          0.0,
+          1.5708
+        ]
+      },
+      {
+        "name": "gripper_J1_r_1",
+        "type": "prismatic",
+        "parent": "gripper_base_link_r",
+        "child": "gripper_L2_r",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.025739,
+          0.0,
+          0.11826
+        ],
+        "rpy": [
+          -1.5708,
+          0.0,
+          1.5708
+        ]
+      },
+      {
+        "name": "gripper_base_joint_r",
+        "type": "fixed",
+        "parent": "arm_end_effector_r",
+        "child": "gripper_base_link_r",
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.005
+        ],
+        "rpy": [
+          0.0,
+          -3.14159,
+          3.14159
+        ]
+      },
+      {
+        "name": "project_tool_mount_l_fixed",
+        "type": "fixed",
+        "parent": "arm_end_effector_l",
+        "child": "project_tool_mount_l",
+        "xyz": [
+          0.0014072585953277504,
+          0.0,
+          -0.004991236805915833
+        ],
+        "rpy": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "axis": [
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": "camera_bracket_cad_fixed",
+        "type": "fixed",
+        "parent": "project_tool_mount_l",
+        "child": "camera_bracket_cad",
+        "xyz": [
+          0,
+          0,
+          0.005
+        ],
+        "rpy": [
+          0,
+          0,
+          -1.5707963267948966
+        ],
+        "axis": [
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": "suction_cup_cad_fixed",
+        "type": "fixed",
+        "parent": "project_tool_mount_l",
+        "child": "suction_cup_cad",
+        "xyz": [
+          0,
+          0,
+          0
+        ],
+        "rpy": [
+          0,
+          0,
+          -1.5707963267948966
+        ],
+        "axis": [
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": "d405_body_envelope_fixed",
+        "type": "fixed",
+        "parent": "project_tool_mount_l",
+        "child": "d405_body_envelope",
+        "xyz": [
+          0.059315620980164414,
+          -0.05931562098016443,
+          0.03968013984416743
+        ],
+        "rpy": [
+          5.551115123125783e-17,
+          -0.34906585039886595,
+          -0.7853981633974483
+        ],
+        "axis": [
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": "d405_depth_optical_frame_joint",
+        "type": "fixed",
+        "parent": "project_tool_mount_l",
+        "child": "d405_depth_optical_frame",
+        "axis": [
+          0,
+          0,
+          1
+        ],
+        "xyz": [
+          0.0510894552771,
+          -0.0638173773385,
+          0.0469157730242
+        ],
+        "rpy": [
+          -0.349065850399,
+          -0.0,
+          0.785398163397
+        ]
+      },
+      {
+        "name": "d405_color_optical_frame_joint",
+        "type": "fixed",
+        "parent": "d405_depth_optical_frame",
+        "child": "d405_color_optical_frame",
+        "axis": [
+          0,
+          0,
+          1
+        ],
+        "xyz": [
+          9.59844155184e-06,
+          -9.97037752883e-06,
+          -9.94126352548e-06
+        ],
+        "rpy": [
+          -0.000624967771449,
+          -0.00550522301296,
+          0.00374451267395
+        ]
+      }
+    ],
+    "arm_joints": [
+      [
+        "arm_J1_l",
+        "arm_J2_l",
+        "arm_J3_l",
+        "arm_J4_l",
+        "arm_J5_l",
+        "arm_J6_l",
+        "arm_J7_l"
+      ],
+      [
+        "arm_J1_r",
+        "arm_J2_r",
+        "arm_J3_r",
+        "arm_J4_r",
+        "arm_J5_r",
+        "arm_J6_r",
+        "arm_J7_r"
+      ]
+    ],
+    "joint_display_offset_rad": 0
+  },
+  "joint_calibration": {
+    "gain": [
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    ],
+    "offset_rad": [
+      [
+        -1.57079,
+        -0.0,
+        0.0,
+        -0.0,
+        0.0,
+        -0.0,
+        0.0
+      ],
+      [
+        -1.57079,
+        0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.0,
+        -0.2129301687
+      ]
+    ],
+    "provenance": {
+      "legacy": {
+        "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/config1.yaml",
+        "sha256": "edc2423ef15c3de7ec946f73a32f69e54878454e5002161369fdff5868ea5c34"
+      },
+      "v2": {
+        "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_control/cuarm_rt_control/hardware_modules/realman_dual_arm/config1.yaml",
+        "sha256": "b46b8937e1ff8bf193b078ea8e9c7ef2c6706932b09d069a208db79476f2de86"
+      }
+    }
+  },
+  "sources": {
+    "alignment": {
+      "path": "/mnt/ssd/robotarm/graspnet-thesis-demo/tools/project_gui/camera_visual_alignment.json",
+      "sha256": "8704d30ce2e47ad5d09c97f72ccaa44397600d783ec436c461e37af50f3740a4"
+    },
+    "model": {
+      "path": "/mnt/ssd/robotarm/graspnet-thesis-demo/tools/project_gui/model.json",
+      "sha256": "89956e64716377ac2d3d9716f5bff410fd534a72f1706c050c6ba194b9246ed3"
+    },
+    "home": {
+      "path": "/mnt/ssd/robotarm/graspnet-thesis-demo/tools/project_gui/initial_pose.json",
+      "sha256": "8edaf60dcfdd2022ba6fbbc39f61c4dac375d6531eee0b7f27a5a8e71a8122c9"
+    },
+    "intrinsics": {
+      "path": "/mnt/ssd/robotarm/graspnet-thesis-demo/config/pick_place_demo/d405_intrinsics.json",
+      "sha256": "21a00c396f83452a54bd44055672a799d05c36aae684fb557e058bc64307032b"
+    },
+    "rays": {
+      "path": "/mnt/ssd/robotarm/graspnet-thesis-demo/config/pick_place_demo/d405_color_rays.npy",
+      "sha256": "c14f0ecad201b028e1b97568774d140a2b4759aee7de047521a495a12ec7a6f1"
+    }
+  }
+}

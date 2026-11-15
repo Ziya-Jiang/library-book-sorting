@@ -1,0 +1,76 @@
+{
+  "schema": "right-trial-reset-v1",
+  "description": "Original first_reset TCP minus 60mm base X and minus 150mm base Y; fixed Z/orientation",
+  "model_digest": "816765296f547ed97d8858b97bd52237dee8160b31dc2b4c1ad209bec6f94120",
+  "old_right_joint_deg": [
+    115.0,
+    85.0,
+    -65.0,
+    112.0,
+    100.0,
+    -20.3164,
+    0.0
+  ],
+  "right_joint_deg": [
+    128.70770351491194,
+    59.52529905066223,
+    -76.4119574669954,
+    121.54453823590521,
+    104.5914106951148,
+    -25.382303730632653,
+    -27.249115918945527
+  ],
+  "old_tcp_mm": [
+    411.6463994509104,
+    -58.83038460597584,
+    -11.040190190509016
+  ],
+  "target_tcp_mm": [
+    351.6463994509104,
+    -208.83038460597587,
+    -11.040190190509016
+  ],
+  "target_wxyz": [
+    0.4625355362356202,
+    -0.49361773956790383,
+    -0.49551859214467375,
+    0.5448520255464419
+  ],
+  "offset_base_mm": [
+    -60.0,
+    -150.0,
+    0.0
+  ],
+  "verification": {
+    "position_error_mm": 3.294094114623107e-07,
+    "orientation_error_deg": 7.801522025754714e-08,
+    "min_joint_margin_deg": 22.005615852144484,
+    "cpu_sampled_joint_path_free": true,
+    "path_samples": 101,
+    "reference_left_joints_rad": [
+      1.7801830000000003,
+      1.22112,
+      -1.221264,
+      1.738048,
+      -0.347926,
+      0.350897,
+      0.698441
+    ],
+    "reference_gripper_joints": [
+      0.00198,
+      0.00198
+    ],
+    "source": "Historical left pose; 101 samples each from original and previous reset; CPU only, not live GPU/hardware",
+    "prior_right_joint_deg": [
+      126.33222827105736,
+      66.72672819266802,
+      -71.18615397276284,
+      121.29739232149747,
+      104.13712923600062,
+      -24.67008898531377,
+      -18.408137876733253
+    ]
+  },
+  "source_previous_model_digest": "0a3cd51aaa34b5f127f3271d330e499e09c9515677f7057b3c867c9683e4d8f0",
+  "note": "Independent installed-both-grippers model; unchanged right joint target; actual full collision check stays in CuRobo."
+}

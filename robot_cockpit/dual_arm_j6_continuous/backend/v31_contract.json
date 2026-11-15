@@ -1,0 +1,50 @@
+{
+  "base_calibration": {
+    "path": "/mnt/data/erazer/book_grasp/dual_arm_j6_continuous_runtime/releases/continuous_gripper_endpoint_20261114_q066/backend/calibration.py",
+    "sha256": "66fdfc2cf051372166f4bdb27e4e8cdcd5e9b8ca74dd2830fa30ecac389d6ee3"
+  },
+  "base_kinematics": {
+    "path": "/mnt/data/erazer/book_grasp/dual_arm_j6_continuous_runtime/releases/continuous_gripper_endpoint_20261114_q066/backend/kinematics.py",
+    "sha256": "0cb329e7bac4b884f638e15893e1578ef1ee77def561e33e2ae415586fb04d24"
+  },
+  "base_model": {
+    "path": "/mnt/data/erazer/book_grasp/dual_arm_j6_continuous_runtime/releases/continuous_gripper_endpoint_20261114_q066/backend/model.py",
+    "sha256": "fae8519f0c45b7556297d5a044d2447893516f76a6cbc5774d1622231c39d123"
+  },
+  "base_planner_bridge": {
+    "path": "/mnt/data/erazer/book_grasp/dual_arm_j6_continuous_runtime/releases/continuous_gripper_endpoint_20261114_q066/backend/planner_bridge.py",
+    "sha256": "c5d21f23fc373352d795704d063972f215f8955e6248824c8050fc4e9bf62c7b"
+  },
+  "base_protocol": {
+    "path": "/mnt/data/erazer/book_grasp/dual_arm_j6_continuous_runtime/releases/continuous_gripper_endpoint_20261114_q066/backend/protocol.py",
+    "sha256": "654d1afdf90beef0b0dc536c404a7241deb5ac3ac5c2e21562eada02a07b7d7d"
+  },
+  "base_runtime_config": {
+    "path": "/mnt/data/erazer/book_grasp/dual_arm_j6_continuous_runtime/releases/continuous_gripper_endpoint_20261114_q066/backend/runtime_config.py",
+    "sha256": "439b5722413108013430b46e2a0df0a7b9ba8ca61b4accc23c1fe99728e7d280"
+  },
+  "calibration": {
+    "path": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_control/cuarm_rt_control/hardware_modules/realman_dual_arm/config1.yaml",
+    "sha256": "b46b8937e1ff8bf193b078ea8e9c7ef2c6706932b09d069a208db79476f2de86"
+  },
+  "interpolation.cpp": {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/interpolation.cpp",
+    "sha256": "f18e6a9f3db948e57491683a82f7dd226472248b37ae5bab57c209a6eb7b4790"
+  },
+  "interpolation.h": {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/cuarm_robotics/src/interpolation.h",
+    "sha256": "2d64fbe53788e0214271fc029f2d59cd6307734c13fc8f179fd2a9793d5823fc"
+  },
+  "legacy_calibration": {
+    "path": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/config1.yaml",
+    "sha256": "edc2423ef15c3de7ec946f73a32f69e54878454e5002161369fdff5868ea5c34"
+  },
+  "model": {
+    "path": "/mnt/data/erazer/book_grasp/dual_arm_j6_continuous_runtime/releases/continuous_gripper_endpoint_20261114_q066/configuration/dual_gripper.urdf",
+    "sha256": "dbb332ac168a07f97296f29ecb62c5c1a2a8bebcdd13ed9fd7fbd49e66cb069f"
+  },
+  "rt_binary": {
+    "path": "/mnt/data/erazer/book_grasp/dual_arm_j6_continuous_runtime/releases/continuous_gripper_endpoint_20261114_q066/runtime/build/seldon_rt_control",
+    "sha256": "36691a5776224fa9315400f9a5392ea1d868c4ba7de7a97a44c84eb6efadcdb9"
+  }
+}

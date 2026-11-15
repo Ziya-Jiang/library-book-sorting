@@ -1,0 +1,27 @@
+{
+  "torch": {
+    "version": "2.8.0"
+  },
+  "numpy": {
+    "version": "2.2.6"
+  },
+  "scipy": {
+    "version": "1.15.3"
+  },
+  "PyYAML": {
+    "version": "6.0.2"
+  },
+  "trimesh": {
+    "version": "4.8.1"
+  },
+  "nvidia-curobo": {
+    "version": "0.7.7.post1.dev5",
+    "local_source": "/mnt/ssd/user/ruby/pkgs/curobo"
+  },
+  "pybind11": {
+    "version": "3.0.1"
+  },
+  "warp-lang": {
+    "version": "1.9.0"
+  }
+}

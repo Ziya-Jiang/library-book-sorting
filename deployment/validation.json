@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-15",
+  "python_task": "/mnt/ssd/robotarm/env/robotram_wx/bin/python",
+  "python_planner": "/mnt/ssd/robotarm/env/curobo/bin/python",
+  "checks": {
+    "task_entry_help": "passed",
+    "startup_entry_help": "passed",
+    "isolated_task_imports_calibration_and_model": "passed",
+    "shared_planner_static_config": "passed_no_CUDA_or_UDP_initialized",
+    "existing_regression_tests": {
+      "run": 24,
+      "passed": 24
+    },
+    "155_restore_to_isolated_root": "passed_63_release_hashes",
+    "100_runtime_restore": "passed",
+    "credential_pattern_scan": "passed"
+  },
+  "not_performed": [
+    "robot motion",
+    "active RT restart",
+    "active Planner restart",
+    "model API request",
+    "fresh OS environment installation",
+    "end-to-end hardware test"
+  ]
+}

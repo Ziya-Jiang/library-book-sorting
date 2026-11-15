@@ -1,0 +1,9 @@
+{
+  "upstream_commit": "ebb71702f3f70e767f40fd8e050674af0288abe8",
+  "installed_version": "0.7.7.post1.dev5",
+  "local_modifications": [
+    "src/curobo/rollout/arm_reacher.py"
+  ],
+  "omitted": "unrelated sample robot meshes under src/curobo/content/assets; project URDF/meshes included separately",
+  "file_count": 184
+}

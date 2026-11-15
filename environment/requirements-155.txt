@@ -1,0 +1,8 @@
+# Python 3.10; matches the installed camera/backend imports.
+numpy==1.26.4
+scipy==1.15.3
+PyYAML==6.0.2
+aiohttp==3.14.3
+opencv-python-headless==4.11.0.86
+mcp==1.30.0
+httpx==0.28.1

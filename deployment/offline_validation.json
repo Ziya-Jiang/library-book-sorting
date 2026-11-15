@@ -1,0 +1,9 @@
+{
+  "python_files_parsed": 523,
+  "source_hashes": "passed",
+  "frozen_release_files": 63,
+  "credential_pattern_scan": "passed",
+  "task_imports": true,
+  "robot_started": false,
+  "model_api_called": false
+}

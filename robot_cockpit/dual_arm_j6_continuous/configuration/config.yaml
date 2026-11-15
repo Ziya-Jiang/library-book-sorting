@@ -1,0 +1,58 @@
+panel:
+  mainwindow_size:
+  - 1000
+  - 900
+  enable_ndi: false
+  dt_send: 0.011
+  dt_receive: 0.009
+  ip: 127.0.0.1
+  port: 21101
+  general:
+    interpolation: Cos
+    target_type: Position
+    actuator_mode: Position
+    acc_time: 5
+    vel_time: 1
+    none_interpolation_saturation_adjust: 0.15
+  disable_display:
+    control_tab-motor_tab: true
+    control_tab-joint_tab-null_control: true
+    enable_joint_module: true
+  remote_page:
+    default_local_ip: 127.0.0.1
+    default_local_port: 30240
+    default_remote_ip: 127.0.0.1
+    default_remote_port: 30241
+    dt_receive: 0.018
+  qml:
+    transformation:
+      rotation:
+      - 0
+      - 0
+      - 0
+      translation:
+      - 0
+      - 0
+      - 0
+    camera:
+      field_of_view: 2.8
+      position:
+      - 30.0
+      - 30.0
+      - 18.0
+      view_center:
+      - 0
+      - 0
+      - 1.25
+rt_control:
+  dt_send: 0.01
+  dt_receive: 0.01
+  command_watchdog_timeout_ms: 1000
+  ip: 127.0.0.1
+  port: 21201
+  robotics_library: pinocchio
+  hardware_simulation: false
+curobo:
+  import_yaml: curobo.yaml
+robot:
+  import_yaml: robot.yaml

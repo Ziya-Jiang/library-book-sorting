@@ -1,0 +1,6 @@
+{
+  "legacy_hardware": "/home/erazer/cuarm_panel_control/cuarm_rt_control/hardware_modules/realman_dual_arm/config1.yaml",
+  "v2_hardware": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_control/cuarm_rt_control/hardware_modules/realman_dual_arm/config1.yaml",
+  "urdf": "/mnt/data/erazer/book_grasp/dual_arm_j6_continuous_runtime/releases/continuous_gripper_endpoint_20261114_q066/configuration/dual_gripper.urdf",
+  "mesh_root": "/home/erazer/Seldon/dual_arm_cockpit/config_sources/V2/dual_v2_2_configuration/share"
+}

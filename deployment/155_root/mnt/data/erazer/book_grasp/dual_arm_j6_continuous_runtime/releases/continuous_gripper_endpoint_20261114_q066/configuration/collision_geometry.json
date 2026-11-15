@@ -1,0 +1,6 @@
+{
+  "method": "baseline_finger_spheres_both_installed",
+  "left_tool_installed": true,
+  "added_base_envelope": false,
+  "limitation": "Baseline has finger spheres, no full gripper-base shell envelope"
+}

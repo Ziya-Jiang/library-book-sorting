@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.secrets/
+.env
+.env.*
+!.env.example
+*.log
+*.jsonl
+*.rrd
+*.sock
+/robot_cockpit/**/runtime/
+/dual_v2_2_agent/RobotRAM/output/
+/dist/
+/third_party/curobo/build/
+*.egg-info/

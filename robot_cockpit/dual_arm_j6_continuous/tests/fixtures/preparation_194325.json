@@ -1,0 +1,58 @@
+{
+  "start_joints_rad": [
+    1.7895320000000001,
+    1.109354,
+    -1.135504,
+    1.829775,
+    -0.286471,
+    0.253106,
+    0.532004,
+    2.246372,
+    1.038912,
+    -1.333629,
+    2.121373,
+    1.825463,
+    -0.443033,
+    -0.4756001687
+  ],
+  "grippers": [
+    0.998974,
+    0.0
+  ],
+  "target_m": [
+    0.6552149721357933,
+    -0.16547471379048181,
+    0.028971861098175046
+  ],
+  "reference": {
+    "batch_id": "20261113_194325_39bb7399",
+    "epoch": 42,
+    "frame_token": "4411d867a7064958a30fac1d1a0f42e8:214851",
+    "method": "initial_left_wrist_spine_base_Z_median",
+    "contact_y_window": {
+      "available": true,
+      "lower_y_mm": -228.65211340243206,
+      "upper_y_mm": -119.82938098630007,
+      "source": "same_frame_spine_and_far_edge_1_2_base_Y",
+      "percentiles": [
+        5,
+        95
+      ],
+      "spine_y_span_mm": [
+        -289.9644383283525,
+        -99.82938098630007
+      ],
+      "far_edge_y_span_mm": [
+        -248.65211340243206,
+        -96.61149375164793
+      ],
+      "contact_center_margin_mm": 20.0,
+      "limitation": "observed_contact_center_range_not_complete_scene_collision_proof"
+    },
+    "far_edge": {
+      "reference": "top_book_farthest_edge_1_2"
+    }
+  },
+  "epoch": 42,
+  "batch_id": "20261113_194325_39bb7399"
+}
